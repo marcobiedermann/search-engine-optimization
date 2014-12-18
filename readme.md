@@ -21,6 +21,7 @@
 * add ~ 3 internal links
 * use `strong` tag
 * do not provide duplicated content
+* article should be at least 300 words
 
 ## Headings
 * Clear structure `H1` -` H6`
