@@ -7,13 +7,25 @@
 ## Title
 * every page shound have a unique speaking title (60 - 100 characters)
 
+```
+<title>Website Title goes here</title>
+```
+
 ## Keywords
 * every page shound have unique keywords
 * max. 10 keywords
 
+```
+<meta name="keywords" content="10 words">
+```
+
 ## Description
 * every page shound have a unique description
 * max. 255 characters
+
+```
+<meta name="description" content="max 255 Chars">
+```
 
 ## Content
 * Content matters the most
@@ -36,7 +48,18 @@
 
 ## Social Media
 * Social link rank up your site
-* use social snippets [Facebook](https://developers.facebook.com/docs/sharing/best-practices), [Twitter](https://dev.twitter.com/cards/getting-started)
+* use social snippets [OpenGraph](http://ogp.me/), [Facebook](https://developers.facebook.com/docs/sharing/best-practices), [Twitter](https://dev.twitter.com/cards/getting-started)
+* Authorship information
+
+```
+<link rel="author" href="https://plus.google.com/u/0/[GOOGLE+ ID]">
+```
+or
+
+```
+<a href="https://plus.google.com/u/0/[GOOGLE+ ID]?rel=author">Google</a>
+```
+
 
 ## Sitemap
 * provide a `.xml` sitemap
@@ -45,6 +68,7 @@
 * provide 403 - Acced denied page
 * provide 404 - Page not found page
 * add a `robots.txt` file
+* Avoid `FILE_NOT_FOUND` errors
 
 ## HTAccess
 * enable GZip
@@ -54,14 +78,41 @@
 * Performance and loading time matters
 * only serve concatenated and minified files
 * if possible no redirects
+* compress images ([ImageOptim](https://imageoptim.com/))
 
 ## UX
 * User friendly site
 * clickable links should not be too small
 
 ## Mobile
-* create a mobile-friendly site (shown in search results)
+* add viewport tag
+
+```
+ <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+ ```
+ 
+* create a mobile-friendly site ([shown in search results](http://googlewebmastercentral.blogspot.be/2014/11/helping-users-find-mobile-friendly-pages.html))
+* [Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
 
 ## Validation and accessibility
-* Write valid markup
-* use WAI-Aria tags
+* Write valid markup ([HTML Validator](http://validator.w3.org/) [CSS Validator](http://jigsaw.w3.org/css-validator/))
+* use [WAI-Aria](http://www.w3.org/TR/wai-aria/) tags
+* use [RichSnippets](http://schema.org/)
+
+## Security
+* [HTTPS as a ranking signal](http://googlewebmastercentral.blogspot.be/2014/08/https-as-ranking-signal.html)
+
+## Search
+* [Provide a custom search](https://developers.google.com/custom-search/) ([schema.org/SearchAction](http://schema.org/SearchAction), [RichSnippet](https://developers.google.com/webmasters/richsnippets/sitelinkssearch?utm_source=wmc-blog&utm_medium=direct-referral&utm_campaign=sitelinks-searchbox))
+
+## Tools
+* [Google Webmasters](https://www.google.com/webmasters/)
+* [Bing Webmasters](http://www.bing.com/toolbox/webmaster)
+* [Google Analytics](http://www.google.com/analytics/)
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+* [AdWords Keyword Tool](https://adwords.google.com/KeywordPlanner)
+* [Google Trends](http://www.google.com/trends/)
+* [Structured Data Testing Tool](http://www.google.com/webmasters/tools/richsnippets)
+* [Google+ Snippet Creator](https://developers.google.com/+/web/snippet/)
+* [seo tool by feedthebot](http://www.feedthebot.com/tools/)
+* [Facebook Debugger](https://developers.facebook.com/tools/debug)
