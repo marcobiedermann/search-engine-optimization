@@ -12,6 +12,7 @@
 ```
 
 ## Keywords
+* select specific keywords
 * every page shound have unique keywords
 * max. 10 keywords
 
