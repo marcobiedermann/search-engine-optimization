@@ -22,10 +22,10 @@
 
 ## Description
 * every page shound have a unique description
-* max. 255 characters
+* max. 160 characters
 
 ```
-<meta name="description" content="max 255 Chars">
+<meta name="description" content="max 160 Chars">
 ```
 
 ## Content
@@ -52,15 +52,18 @@
 * use social snippets [OpenGraph](http://ogp.me/), [Facebook](https://developers.facebook.com/docs/sharing/best-practices), [Twitter](https://dev.twitter.com/cards/getting-started)
 * Authorship information
 
-```
-<link rel="author" href="https://plus.google.com/u/0/[GOOGLE+ ID]">
-```
-or
+  `<link rel="author" href="https://plus.google.com/u/0/[GOOGLE+ ID]">`
 
-```
-<a href="https://plus.google.com/u/0/[GOOGLE+ ID]?rel=author">Google</a>
-```
+  `<a href="https://plus.google.com/u/0/[GOOGLE+ ID]?rel=author">Google</a>`
+* [social profiles](https://developers.google.com/webmasters/structured-data/customize/social-profiles)
 
+  ```
+  <span itemscope itemtype="http://schema.org/Organization">
+    <link itemprop="url" href="http://www.your-company-site.com">
+    <a itemprop="sameAs" href="http://www.facebook.com/your-company">Facebook</a>
+    <a itemprop="sameAs" href="http://www.twitter.com/YourCompany">Twitter</a>
+  </span>
+  ```
 
 ## Sitemap
 * provide a `.xml` sitemap
@@ -91,7 +94,7 @@ or
 ```
  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
  ```
- 
+
 * create a mobile-friendly site ([shown in search results](http://googlewebmastercentral.blogspot.be/2014/11/helping-users-find-mobile-friendly-pages.html))
 * [Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
 
