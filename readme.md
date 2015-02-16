@@ -46,6 +46,7 @@
 ## Links
 * add meaningful title
 * Only add external links if you got a backlink to your site
+* add `rel="nofollow"` attribute to external links
 
 ## Social Media
 * Social link rank up your site
