@@ -98,6 +98,7 @@
 
 * create a mobile-friendly site ([shown in search results](http://googlewebmastercentral.blogspot.be/2014/11/helping-users-find-mobile-friendly-pages.html))
 * [Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
+* [AppLinks](http://applinks.org/documentation/)
 
 ## Validation and accessibility
 * Write valid markup ([HTML Validator](http://validator.w3.org/) [CSS Validator](http://jigsaw.w3.org/css-validator/))
