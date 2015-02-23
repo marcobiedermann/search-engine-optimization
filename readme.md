@@ -16,7 +16,6 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * [UX](#ux)
 * [Mobile](#mobile)
 * [Validation and accessibility](#Vvlidation-and-accessibility)
-* [Security](#security)
 * [Search](#search)
 * [Analytics](#analytics)
 * [Tools](#tools)
@@ -27,6 +26,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * Hyphans: split words using hyphans
 * www or no-www: provide both domains, but set a prefered version in Google Webmaster Tools
 * Localisation: chookse a country-specific domain, for better local search results
+* [HTTPS](http://googlewebmastercentral.blogspot.be/2014/08/https-as-ranking-signal.html): Security is a top priority for Google
 
 ### Title
 * every page shound have a unique speaking title (60 - 100 characters)
@@ -127,9 +127,6 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * Write valid markup ([HTML Validator](http://validator.w3.org/) [CSS Validator](http://jigsaw.w3.org/css-validator/))
 * use [WAI-Aria](http://www.w3.org/TR/wai-aria/) tags
 * use [RichSnippets](http://schema.org/)
-
-### Security
-* [HTTPS as a ranking signal](http://googlewebmastercentral.blogspot.be/2014/08/https-as-ranking-signal.html)
 
 ### Search
 * [Provide a custom search](https://developers.google.com/custom-search/) ([schema.org/SearchAction](http://schema.org/SearchAction), [RichSnippet](https://developers.google.com/webmasters/richsnippets/sitelinkssearch?utm_source=wmc-blog&utm_medium=direct-referral&utm_campaign=sitelinks-searchbox))
