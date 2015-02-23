@@ -12,7 +12,6 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * [Social Media](#social-media)
 * [Sitemap](#sitemap)
 * [Errors and access](#errors-and-access)
-* [HTAccess](#htaccess)
 * [Performance](#performance)
 * [UX](#ux)
 * [Mobile](#mobile)
@@ -98,10 +97,6 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * provide 404 - Page not found page
 * add a `robots.txt` file
 * Avoid `FILE_NOT_FOUND` errors
-
-### HTAccess
-* enable GZip
-* enable caching
 
 ### Performance
 * Performance and loading time matters
