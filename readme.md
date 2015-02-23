@@ -2,7 +2,7 @@
 A collection of Search Engine Optimization (SEO) tips
 
 ## Table of Contents
-* [Domain](#domain)
+* [URL](#url)
 * [Title](#title)
 * [Keywords](#keywords)
 * [Description](#description)
@@ -22,9 +22,12 @@ A collection of Search Engine Optimization (SEO) tips
 * [Search](#search)
 * [Tools](#tools)
 
-### Domain
-* use a speaking URL
-* differanciate between subdomain and subdirectory
+### URL
+* Descriptive URLs: use a descriptive page url, which should reflect your targeted keyword
+* Subdomain or subfolder: subdomains are seen as separate domains
+* Hyphans: split words using hyphans
+* www or no-www: provide both domains, but set a prefered version in Google Webmaster Tools
+* Localisation: chookse a country-specific domain, for better local search results
 
 ### Title
 * every page shound have a unique speaking title (60 - 100 characters)
