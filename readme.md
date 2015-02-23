@@ -1,5 +1,5 @@
 # Search Engine Optimization (SEO)
-A collection of Search Engine Optimization (SEO) tips
+A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
 
 ## Table of Contents
 * [URL](#url)
