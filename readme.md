@@ -19,6 +19,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * [Validation and accessibility](#Vvlidation-and-accessibility)
 * [Security](#security)
 * [Search](#search)
+* [Analytics](#analytics)
 * [Tools](#tools)
 
 ### URL
@@ -134,10 +135,14 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 ### Search
 * [Provide a custom search](https://developers.google.com/custom-search/) ([schema.org/SearchAction](http://schema.org/SearchAction), [RichSnippet](https://developers.google.com/webmasters/richsnippets/sitelinkssearch?utm_source=wmc-blog&utm_medium=direct-referral&utm_campaign=sitelinks-searchbox))
 
+### Analytics
+* [Google Analytics](http://www.google.com/analytics/)
+* [Piwik](http://piwik.org/)
+* [Yahoo Web Analytics]( (web.analytics.yahoo.com))
+
 ### Tools
 * [Google Webmasters](https://www.google.com/webmasters/)
 * [Bing Webmasters](http://www.bing.com/toolbox/webmaster)
-* [Google Analytics](http://www.google.com/analytics/)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [AdWords Keyword Tool](https://adwords.google.com/KeywordPlanner)
 * [Google Trends](http://www.google.com/trends/)
