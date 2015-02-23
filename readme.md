@@ -90,7 +90,11 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
   ```
 
 ### Sitemap
-* provide a `.xml` sitemap
+* HTML sitemap: An HTML sitemap allows site visitors to easily navigate a website.
+* [XML sitemap](https://support.google.com/webmasters/answer/183668): Help search engines to index your pages
+* [Image sitemap](https://support.google.com/webmasters/answer/178636): Increase that your images can be found in Image Search results
+* [Video sitemap](https://support.google.com/webmasters/answer/80471): Make sure, search engines know about all the video content on your site
+* [Mobile sitemap](https://support.google.com/webmasters/answer/6082207): For feature phones, you can create a mobile sitemap
 
 ### Errors and access
 * provide 403 - Acced denied page
