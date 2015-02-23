@@ -7,7 +7,6 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * [Keywords](#keywords)
 * [Description](#description)
 * [Content](#content)
-* [Headings](#headings)
 * [Images](#images)
 * [Links](#links)
 * [Social Media](#social-media)
@@ -54,15 +53,13 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 ```
 
 ### Content
-* Content matters the most
-* Page Title should appear 3% of content length
-* add ~ 3 internal links
-* use `strong` tag
-* do not provide duplicated content
-* article should be at least 300 words
-
-### Headings
-* Clear structure `H1` -` H6`
+* Content: Content matters the most in SEO
+* Headings: Clear structure `H1` -` H6` max. 70 characters long
+* Keyword: Targeted keyword should appear in 3% of content length
+* Strong: use `strong` tag to highlight your targeted keyword
+* Unique: do not provide duplicated content, use unique content types
+* Length: article should be at least 300 words
+* Freshness: new content is important. Updating pages or regulary posting is recommended
 
 ### Images
 * Alt tag (60 - 70 characters)
@@ -72,6 +69,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * add meaningful title
 * Only add external links if you got a backlink to your site
 * add `rel="nofollow"` attribute to external links
+* add ~ 3 internal links to your content
 
 ### Social Media
 * Social link rank up your site
