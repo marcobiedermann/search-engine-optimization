@@ -28,8 +28,10 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **[HTTPS](http://googlewebmastercentral.blogspot.be/2014/08/https-as-ranking-signal.html):** Security is a top priority for Google
 
 ## Meta Information
-* **Title:** each page shound have a unique speaking title (60 - 100 characters) `<title>Website Title</title>`
-* **Description:** each page should have a unique description (max. 160 characters) `<meta name="description" content="">`
+* **Title:** each page shound have a unique speaking title (60 - 100 characters)  
+`<title>Website Title</title>`
+* **Description:** each page should have a unique description (max. 160 characters)  
+`<meta name="description" content="">`
 
 ## Keywords
 * **Single:** every page shound have a single unique targeted keyword
