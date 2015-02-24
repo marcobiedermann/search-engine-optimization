@@ -21,7 +21,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 
 ## URL
 * **Descriptive URLs:** use a descriptive page url, which should reflect your targeted keyword
-* **Subdomain or subfolder:** subdomains are seen as separate domains
+* **[Subdomain or subfolder](https://www.youtube.com/watch?v=_MswMYk05tk):** subdomains are seen as separate domains
 * **Hyphans:** split words using hyphans
 * **[www or no-www](https://support.google.com/webmasters/answer/44231):** provide both domains, but set a prefered version in Google Webmaster Tools
 * **[Localisation](https://support.google.com/webmasters/answer/62399):** chookse a country-specific domain, for better local search results
@@ -37,7 +37,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 ## Keywords
 * **Single:** every page shound have a single unique targeted keyword
 * **Research:** rank for keywords with high traffic and less competition
-* **URL:** keyword should appear in URL name
+* **[URL](https://www.youtube.com/watch?v=rAWFv43qubI):** keyword should appear in URL name
 * **Title:** keyword should appear in page title
 * **Heading:** keyword should appear in headings
 * **Content:** keyword should apear in ~3% of article length
