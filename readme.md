@@ -38,11 +38,11 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 ### Keywords
 * Single: every page shound have a single unique targeted keyword
 * Research: rank for keywords with high traffic and less competition
-* URL: Keyword should appear in URL name
-* Title: Keyword should appear in page title
-* Heading: Keyword should appear in headings
-* Content: Keyword should apear in ~3% of article length
-* [Meta Tag](https://www.youtube.com/watch?v=jK7IPbnmvVU): You can ommit the `<meta name="keywords" content="">`, search engines do not use this meta tag
+* URL: keyword should appear in URL name
+* Title: keyword should appear in page title
+* Heading: keyword should appear in headings
+* Content: keyword should apear in ~3% of article length
+* [Meta Tag](https://www.youtube.com/watch?v=jK7IPbnmvVU): you can ommit the `<meta name="keywords" content="">`, search engines do not use this meta tag
 
 
 ### Description
