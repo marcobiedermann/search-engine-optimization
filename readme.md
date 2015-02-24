@@ -3,9 +3,8 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 
 ## Table of Contents
 * [URL](#url)
-* [Title](#title)
+* [Meta Information](#meta-information)
 * [Keywords](#keywords)
-* [Description](#description)
 * [Content](#content)
 * [Images](#images)
 * [Links](#links)
@@ -28,12 +27,9 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * Localisation: chookse a country-specific domain, for better local search results
 * [HTTPS](http://googlewebmastercentral.blogspot.be/2014/08/https-as-ranking-signal.html): Security is a top priority for Google
 
-### Title
-* every page shound have a unique speaking title (60 - 100 characters)
-
-```
-<title>Website Title goes here</title>
-```
+### Meta Information
+* Title: each page shound have a unique speaking title (60 - 100 characters) `<title>Website Title</title>`
+* Description: each page should have a unique description (max. 160 characters) `<meta name="description" content="">`
 
 ### Keywords
 * Single: every page shound have a single unique targeted keyword
@@ -43,15 +39,6 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * Heading: keyword should appear in headings
 * Content: keyword should apear in ~3% of article length
 * [Meta Tag](https://www.youtube.com/watch?v=jK7IPbnmvVU): you can ommit the `<meta name="keywords" content="">`, search engines do not use this meta tag
-
-
-### Description
-* every page shound have a unique description
-* max. 160 characters
-
-```
-<meta name="description" content="max 160 Chars">
-```
 
 ### Content
 * Content: Content matters the most in SEO
