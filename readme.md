@@ -36,13 +36,14 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 ```
 
 ### Keywords
-* select specific keywords
-* every page shound have unique keywords
-* max. 10 keywords
+* Single: every page shound have a single unique targeted keyword
+* Research: rank for keywords with high traffic and less competition
+* URL: Keyword should appear in URL name
+* Title: Keyword should appear in page title
+* Heading: Keyword should appear in headings
+* Content: Keyword should apear in ~3% of article length
+* [Meta Tag](https://www.youtube.com/watch?v=jK7IPbnmvVU): You can ommit the `<meta name="keywords" content="">`, search engines do not use this meta tag
 
-```
-<meta name="keywords" content="10 words">
-```
 
 ### Description
 * every page shound have a unique description
@@ -55,7 +56,6 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 ### Content
 * Content: Content matters the most in SEO
 * Headings: Clear structure `H1` -` H6` max. 70 characters long
-* Keyword: Targeted keyword should appear in 3% of content length
 * Strong: use `strong` tag to highlight your targeted keyword
 * Unique: do not provide duplicated content, use unique content types
 * Length: article should be at least 300 words
