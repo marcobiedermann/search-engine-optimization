@@ -62,7 +62,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 ## Links
 * **Title:** add a descriptive title to links
 * **Backlinks:** Only add external links if you got a backlink to your site
-* **nofollow:** add `rel="nofollow"` attribute to external links
+* **[nofollow](https://www.youtube.com/watch?v=x4UJS-LFRTU):** add `rel="nofollow"` attribute to external links only to prevent spam and bad links
 * **Internal links:** add ~3 internal links to your content
 
 ## Social Media
