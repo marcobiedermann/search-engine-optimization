@@ -80,7 +80,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 `<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=publisher">Google+ Profile</a>`
 
 ## Sitemap
-* **HTML sitemap:** An HTML sitemap allows site visitors to easily navigate a website.
+* **[HTML sitemap](https://www.youtube.com/watch?v=hi5DGOu1uA0):** An HTML sitemap allows site visitors to easily navigate a website.
 * **[XML sitemap](https://support.google.com/webmasters/answer/183668):** Help search engines to index your pages
 * **[Image sitemap](https://support.google.com/webmasters/answer/178636):** Increase that your images can be found in Image Search results
 * **[Video sitemap](https://support.google.com/webmasters/answer/80471):** Make sure, search engines know about all the video content on your site
