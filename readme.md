@@ -27,6 +27,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **[Localisation](https://support.google.com/webmasters/answer/62399):** chookse a country-specific domain, for better local search results
 * **[HTTPS](http://googlewebmastercentral.blogspot.be/2014/08/https-as-ranking-signal.html):** Security is a top priority for Google
 * **[URL builder](https://support.google.com/analytics/answer/1033867):** Use this tool to add custom compaign parameters to your URLs
+* **[File extension](https://www.youtube.com/watch?v=dSG6C33GwsE)**: do not strip out the file extension on URLs
 
 ## Meta Information
 * **Title:** each page shound have a unique speaking title (60 - 100 characters)  
