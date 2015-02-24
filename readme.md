@@ -62,8 +62,12 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * Freshness: new content is important. Updating pages or regulary posting is recommended
 
 ### Images
-* Alt tag (60 - 70 characters)
-* Use a CDN or a subdomain to allow parallal http-requests
+* File name: use a short descriptive name
+* Alt tag: add an alt-tag this a description of the image (60 - 70 characters)
+* Dimentions: add the `width=""` and `height=""` attributes to the image
+* [Responsive Images](http://www.w3.org/TR/html-picture-element/): serve the most optimized image corresponding to the window size
+* Size: keep the filesize as low as possible
+* [Optimization](https://imageoptim.com/): Optimize images by removing some meta information
 
 ### Links
 * add meaningful title
