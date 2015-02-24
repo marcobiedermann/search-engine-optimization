@@ -22,7 +22,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 ## URL
 * **Descriptive URLs:** use a descriptive page url, which should reflect your targeted keyword
 * **[Subdomain or subfolder](https://www.youtube.com/watch?v=_MswMYk05tk):** subdomains are seen as separate domains
-* **Hyphans:** split words using hyphans
+* **[Hyphens](https://www.youtube.com/watch?v=AQcSFsQyct8):** split words using hyphens
 * **[www or no-www](https://support.google.com/webmasters/answer/44231):** provide both domains, but set a prefered version in Google Webmaster Tools
 * **[Localisation](https://support.google.com/webmasters/answer/62399):** chookse a country-specific domain, for better local search results
 * **[HTTPS](http://googlewebmastercentral.blogspot.be/2014/08/https-as-ranking-signal.html):** Security is a top priority for Google
@@ -32,7 +32,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 ## Meta Information
 * **Title:** each page shound have a unique speaking title (60 - 100 characters)  
 `<title>Website Title</title>`
-* **Description:** each page should have a unique description (max. 160 characters)  
+* **[Description](https://www.youtube.com/watch?v=W4gr88oHb-k):** each page should have a unique description (max. 160 characters)  
 `<meta name="description" content="">`
 
 ## Keywords
@@ -48,12 +48,12 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **Content:** Content matters the most in SEO
 * **Headings:** Clear structure `H1` -` H6` max. 70 characters long
 * **Strong:** use `strong` tag to highlight your targeted keyword
-* **Uniqueness:** do not provide duplicated content, use unique content types
+* **[Uniqueness](https://www.youtube.com/watch?v=mQZY7EmjbMA):** do not provide duplicated content, use unique content types
 * **Length:** article should be at least 300 words
 * **Freshness:** new content is important. Updating pages or regulary posting is recommended
 
 ## Images
-* **File name:** use a short descriptive name
+* **[File name](https://www.youtube.com/watch?v=h2SWuUobbr0):** use a short descriptive name
 * **Alt tag:** add an alt-tag this a description of the image (60 - 70 characters)
 * **Dimentions:** add the `width=""` and `height=""` attributes to the image
 * **[Responsive Images](http://www.w3.org/TR/html-picture-element/):** serve the most optimized image corresponding to the window size
