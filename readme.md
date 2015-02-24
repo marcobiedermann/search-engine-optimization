@@ -47,7 +47,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **Content:** Content matters the most in SEO
 * **Headings:** Clear structure `H1` -` H6` max. 70 characters long
 * **Strong:** use `strong` tag to highlight your targeted keyword
-* **Unique:** do not provide duplicated content, use unique content types
+* **Uniqueness:** do not provide duplicated content, use unique content types
 * **Length:** article should be at least 300 words
 * **Freshness:** new content is important. Updating pages or regulary posting is recommended
 
