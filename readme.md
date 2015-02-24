@@ -59,10 +59,10 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **[Optimization](https://imageoptim.com/):** Optimize images by removing some meta information
 
 ## Links
-* add meaningful title
-* Only add external links if you got a backlink to your site
-* add `rel="nofollow"` attribute to external links
-* add ~ 3 internal links to your content
+* **Title:** add a descriptive title to links
+* **Backlinks:** Only add external links if you got a backlink to your site
+* **nofollow:** add `rel="nofollow"` attribute to external links
+* **Internal links:** add ~3 internal links to your content
 
 ## Social Media
 * Social link rank up your site
