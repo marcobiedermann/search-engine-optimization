@@ -14,7 +14,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * [Performance](#performance)
 * [UX](#ux)
 * [Mobile](#mobile)
-* [Validation and accessibility](#Vvlidation-and-accessibility)
+* [Validation and accessibility](#Validation-and-accessibility)
 * [Search](#search)
 * [Analytics](#analytics)
 * [Tools](#tools)
