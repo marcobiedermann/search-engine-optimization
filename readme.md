@@ -20,41 +20,41 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * [Tools](#tools)
 
 ## URL
-* Descriptive URLs: use a descriptive page url, which should reflect your targeted keyword
-* Subdomain or subfolder: subdomains are seen as separate domains
-* Hyphans: split words using hyphans
-* www or no-www: provide both domains, but set a prefered version in Google Webmaster Tools
-* Localisation: chookse a country-specific domain, for better local search results
-* [HTTPS](http://googlewebmastercentral.blogspot.be/2014/08/https-as-ranking-signal.html): Security is a top priority for Google
+* **Descriptive URLs:** use a descriptive page url, which should reflect your targeted keyword
+* **Subdomain or subfolder:** subdomains are seen as separate domains
+* **Hyphans:** split words using hyphans
+* **www or no-www:** provide both domains, but set a prefered version in Google Webmaster Tools
+* **Localisation:** chookse a country-specific domain, for better local search results
+* **[HTTPS](http://googlewebmastercentral.blogspot.be/2014/08/https-as-ranking-signal.html):** Security is a top priority for Google
 
 ## Meta Information
-* Title: each page shound have a unique speaking title (60 - 100 characters) `<title>Website Title</title>`
-* Description: each page should have a unique description (max. 160 characters) `<meta name="description" content="">`
+* **Title:** each page shound have a unique speaking title (60 - 100 characters) `<title>Website Title</title>`
+* **Description:** each page should have a unique description (max. 160 characters) `<meta name="description" content="">`
 
 ## Keywords
-* Single: every page shound have a single unique targeted keyword
-* Research: rank for keywords with high traffic and less competition
-* URL: keyword should appear in URL name
-* Title: keyword should appear in page title
-* Heading: keyword should appear in headings
-* Content: keyword should apear in ~3% of article length
-* [Meta Tag](https://www.youtube.com/watch?v=jK7IPbnmvVU): you can ommit the `<meta name="keywords" content="">`, search engines do not use this meta tag
+* **Single:** every page shound have a single unique targeted keyword
+* **Research:** rank for keywords with high traffic and less competition
+* **URL:** keyword should appear in URL name
+* **Title:** keyword should appear in page title
+* **Heading:** keyword should appear in headings
+* **Content:** keyword should apear in ~3% of article length
+* **[Meta Tag](https://www.youtube.com/watch?v=jK7IPbnmvVU):** you can ommit the `<meta name="keywords" content="">`, search engines do not use this meta tag
 
 ## Content
-* Content: Content matters the most in SEO
-* Headings: Clear structure `H1` -` H6` max. 70 characters long
-* Strong: use `strong` tag to highlight your targeted keyword
-* Unique: do not provide duplicated content, use unique content types
-* Length: article should be at least 300 words
-* Freshness: new content is important. Updating pages or regulary posting is recommended
+* **Content:** Content matters the most in SEO
+* **Headings:** Clear structure `H1` -` H6` max. 70 characters long
+* **Strong:** use `strong` tag to highlight your targeted keyword
+* **Unique:** do not provide duplicated content, use unique content types
+* **Length:** article should be at least 300 words
+* **Freshness:** new content is important. Updating pages or regulary posting is recommended
 
 ## Images
-* File name: use a short descriptive name
-* Alt tag: add an alt-tag this a description of the image (60 - 70 characters)
-* Dimentions: add the `width=""` and `height=""` attributes to the image
-* [Responsive Images](http://www.w3.org/TR/html-picture-element/): serve the most optimized image corresponding to the window size
-* Size: keep the filesize as low as possible
-* [Optimization](https://imageoptim.com/): Optimize images by removing some meta information
+* **File name:** use a short descriptive name
+* **Alt tag:** add an alt-tag this a description of the image (60 - 70 characters)
+* **Dimentions:** add the `width=""` and `height=""` attributes to the image
+* **[Responsive Images](http://www.w3.org/TR/html-picture-element/):** serve the most optimized image corresponding to the window size
+* **Size:** keep the filesize as low as possible
+* **[Optimization](https://imageoptim.com/):** Optimize images by removing some meta information
 
 ## Links
 * add meaningful title
@@ -81,11 +81,11 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
   ```
 
 ## Sitemap
-* HTML sitemap: An HTML sitemap allows site visitors to easily navigate a website.
-* [XML sitemap](https://support.google.com/webmasters/answer/183668): Help search engines to index your pages
-* [Image sitemap](https://support.google.com/webmasters/answer/178636): Increase that your images can be found in Image Search results
-* [Video sitemap](https://support.google.com/webmasters/answer/80471): Make sure, search engines know about all the video content on your site
-* [Mobile sitemap](https://support.google.com/webmasters/answer/6082207): For feature phones, you can create a mobile sitemap
+* **HTML sitemap:** An HTML sitemap allows site visitors to easily navigate a website.
+* **[XML sitemap](https://support.google.com/webmasters/answer/183668):** Help search engines to index your pages
+* **[Image sitemap](https://support.google.com/webmasters/answer/178636):** Increase that your images can be found in Image Search results
+* **[Video sitemap](https://support.google.com/webmasters/answer/80471):** Make sure, search engines know about all the video content on your site
+* **[Mobile sitemap](https://support.google.com/webmasters/answer/6082207):** For feature phones, you can create a mobile sitemap
 
 ## Errors and access
 * provide 403 - Acced denied page
