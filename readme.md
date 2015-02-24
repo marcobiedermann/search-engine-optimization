@@ -68,7 +68,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 
 ## Social Media
 * **Social Shares:** provide sharing options for your site
-* **[Social Profiles]((https://developers.google.com/webmasters/structured-data/customize/social-profiles)):** add social profiles to your Google search results
+* **[Social Profiles](https://developers.google.com/webmasters/structured-data/customize/social-profiles):** add social profiles to your Google search results
 * **[OpenGraph](http://ogp.me/):** The Open Graph protocol enables any web page to become a rich object in a social graph.
 * **[Facebook](https://developers.facebook.com/docs/sharing/best-practices):** Sharing Best Practices for Websites & Mobile Apps
 * **[Twitter](https://dev.twitter.com/cards/getting-started):** with Twitter cards, you can attach photos, videos and media experience to you Tweets
