@@ -66,22 +66,17 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **Internal links:** add ~3 internal links to your content
 
 ## Social Media
-* Social link rank up your site
-* use social snippets [OpenGraph](http://ogp.me/), [Facebook](https://developers.facebook.com/docs/sharing/best-practices), [Twitter](https://dev.twitter.com/cards/getting-started)
+* **Social Shares:** provide sharing options for your site
+* **[Social Profiles]((https://developers.google.com/webmasters/structured-data/customize/social-profiles)):** * add social profiles to your Google search results
+* **[OpenGraph](http://ogp.me/):** The Open Graph protocol enables any web page to become a rich object in a social graph.
+* **[Facebook](https://developers.facebook.com/docs/sharing/best-practices):** Sharing Best Practices for Websites & Mobile Apps
+* **[Twitter](https://dev.twitter.com/cards/getting-started):** with Twitter cards, you can attach photos, videos and media experience to you Tweets
 * Authorship information
-
-  `<link rel="author" href="https://plus.google.com/u/0/[GOOGLE+ ID]">`
-
-  `<a href="https://plus.google.com/u/0/[GOOGLE+ ID]?rel=author">Google</a>`
-* [social profiles](https://developers.google.com/webmasters/structured-data/customize/social-profiles)
-
-  ```
-  <span itemscope itemtype="http://schema.org/Organization">
-    <link itemprop="url" href="http://www.your-company-site.com">
-    <a itemprop="sameAs" href="http://www.facebook.com/your-company">Facebook</a>
-    <a itemprop="sameAs" href="http://www.twitter.com/YourCompany">Twitter</a>
-  </span>
-  ```
+* **[Google+ Authorship](https://www.youtube.com/watch?v=FgFb6Y-UJUI):** add Google+ authorship information to your page  
+`<link rel="author" href="https://plus.google.com/u/0/[GOOGLE+ ID]">`  or  
+`<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=author">Google+ Profile</a>` or  
+`<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=me">Google+ Profile</a>` or  
+`<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=publisher">Google+ Profile</a>`
 
 ## Sitemap
 * **HTML sitemap:** An HTML sitemap allows site visitors to easily navigate a website.
