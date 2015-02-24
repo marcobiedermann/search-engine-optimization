@@ -26,6 +26,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **www or no-www:** provide both domains, but set a prefered version in Google Webmaster Tools
 * **Localisation:** chookse a country-specific domain, for better local search results
 * **[HTTPS](http://googlewebmastercentral.blogspot.be/2014/08/https-as-ranking-signal.html):** Security is a top priority for Google
+* **[URL builder](https://support.google.com/analytics/answer/1033867):** Use this tool to add custom compaign parameters to your URLs
 
 ## Meta Information
 * **Title:** each page shound have a unique speaking title (60 - 100 characters)  
