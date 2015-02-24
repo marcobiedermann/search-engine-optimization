@@ -23,8 +23,8 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **Descriptive URLs:** use a descriptive page url, which should reflect your targeted keyword
 * **Subdomain or subfolder:** subdomains are seen as separate domains
 * **Hyphans:** split words using hyphans
-* **www or no-www:** provide both domains, but set a prefered version in Google Webmaster Tools
-* **Localisation:** chookse a country-specific domain, for better local search results
+* **[www or no-www](https://support.google.com/webmasters/answer/44231):** provide both domains, but set a prefered version in Google Webmaster Tools
+* **[Localisation](https://support.google.com/webmasters/answer/62399):** chookse a country-specific domain, for better local search results
 * **[HTTPS](http://googlewebmastercentral.blogspot.be/2014/08/https-as-ranking-signal.html):** Security is a top priority for Google
 * **[URL builder](https://support.google.com/analytics/answer/1033867):** Use this tool to add custom compaign parameters to your URLs
 
