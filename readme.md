@@ -106,9 +106,9 @@ search engines do not use this meta tag
 `<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=publisher">Google+ Profile</a>`
 
 ## Analytics
-* [Google Analytics](http://www.google.com/analytics/)
-* [Piwik](http://piwik.org/)
-* [Yahoo Web Analytics]( (web.analytics.yahoo.com))
+* **[Google Analytics](http://www.google.com/analytics/):** generate detailed statistics about a website's traffic
+* **[Piwik](http://piwik.org/):** is an open analytics platform
+* **[Yahoo Web Analytics](web.analytics.yahoo.com):** is Yahoo!’s alternative to the dominant Google Analytics.
 
 ## Tools
 * [Google Webmasters](https://www.google.com/webmasters/)
