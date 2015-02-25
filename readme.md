@@ -10,11 +10,8 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * [Links](#links)
 * [Social Media](#social-media)
 * [Sitemap](#sitemap)
-* [Errors and access](#errors-and-access)
-* [Performance](#performance)
+* [Accessibility](#accessibility)
 * [Mobile](#mobile)
-* [Validation and accessibility](#Validation-and-accessibility)
-* [Search](#search)
 * [Analytics](#analytics)
 * [Tools](#tools)
 
@@ -85,17 +82,19 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **[Video sitemap](https://support.google.com/webmasters/answer/80471):** Make sure, search engines know about all the video content on your site
 * **[Mobile sitemap](https://support.google.com/webmasters/answer/6082207):** For feature phones, you can create a mobile sitemap
 
-## Errors and access
-* provide 403 - Acced denied page
-* provide 404 - Page not found page
-* add a `robots.txt` file
-* Avoid `FILE_NOT_FOUND` errors
-
-## Performance
-* Performance and loading time matters
-* only serve concatenated and minified files
-* if possible no redirects
-* compress images ([ImageOptim](https://imageoptim.com/))
+## Accessibility
+* **403:** provide a 403 - Access denied page
+* **404:** provide a 404 - Page not found page
+* **Robots:** block pages which should not be indexed via the `robots.txt` file or `<meta name="robots" content="">`
+* **File not found:** avoid `404 FILE_NOT_FOUND` errors
+* **Redirects:** Avoid redirects if possible. Use 301 redirect instead of 302
+* **Pagination:** implement the `rel="next"` and `rel="prev"` attributes to links
+* **Moving a website:** redirect all your links to the new location via `.htaccess`
+* **Performance:** performance and loading time is important
+* **Validation:** write valid code ([HTML Validator](http://validator.w3.org/) [CSS Validator](http://jigsaw.w3.org/css-validator/))
+* **[WAI-Aria](http://www.w3.org/TR/wai-aria/):** use WAI-Aria tags to help machines understanding your code
+* **[RichSnippets](http://schema.org/):** markup your code with rich snippets, they show up on the search results page
+* **[Custom Search](https://developers.google.com/structured-data/slsb-overview):** with sitelink Google Sitelink search box, people can reach your content more quickly
 
 ## Mobile
 * **Viewport:** tell browsers how to adjust the page's dimension and scaling to suit the device  
@@ -103,14 +102,6 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **[mobile friendly](http://googlewebmastercentral.blogspot.be/2014/11/helping-users-find-mobile-friendly-pages.html):** mobile optimized sites are marked in search results. Test for [mobile friendly site](https://www.google.com/webmasters/tools/mobile-friendly/)
 * **[AppLinks](http://applinks.org/documentation/):** apps that link to your content can then use this metadata to deep-link into your app
 * **[Tap targets](https://developers.google.com/speed/docs/insights/SizeTapTargetsAppropriately):** clickable links should not be too small
-
-## Validation and accessibility
-* Write valid markup ([HTML Validator](http://validator.w3.org/) [CSS Validator](http://jigsaw.w3.org/css-validator/))
-* use [WAI-Aria](http://www.w3.org/TR/wai-aria/) tags
-* use [RichSnippets](http://schema.org/)
-
-## Search
-* [Provide a custom search](https://developers.google.com/custom-search/) ([schema.org/SearchAction](http://schema.org/SearchAction), [RichSnippet](https://developers.google.com/webmasters/richsnippets/sitelinkssearch?utm_source=wmc-blog&utm_medium=direct-referral&utm_campaign=sitelinks-searchbox))
 
 ## Analytics
 * [Google Analytics](http://www.google.com/analytics/)
