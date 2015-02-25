@@ -28,7 +28,8 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 ## Accessibility
 * **403:** provide a 403 - Access denied page
 * **404:** provide a 404 - Page not found page
-* **Robots:** block pages which should not be indexed via the `robots.txt` file or `<meta name="robots" content="">`
+* **Robots:** block pages which should not be indexed via the `robots.txt` file or  
+`<meta name="robots" content="">`
 * **File not found:** avoid `404 FILE_NOT_FOUND` errors
 * **Redirects:** Avoid redirects if possible. Use 301 redirect instead of 302
 * **Pagination:** implement the `rel="next"` and `rel="prev"` attributes to links
@@ -52,7 +53,8 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **Title:** keyword should appear in page title
 * **Heading:** keyword should appear in headings
 * **Content:** keyword should apear in ~3% of article length
-* **[Meta Tag](https://www.youtube.com/watch?v=jK7IPbnmvVU):** you can ommit the `<meta name="keywords" content="">`, search engines do not use this meta tag
+* **[Meta Tag](https://www.youtube.com/watch?v=jK7IPbnmvVU):** you can ommit the `<meta name="keywords" content="">`,  
+search engines do not use this meta tag
 
 ## Content
 * **Content:** Content matters the most in SEO
