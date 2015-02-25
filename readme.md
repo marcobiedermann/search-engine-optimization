@@ -12,8 +12,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * [Mobile](#mobile)
 * [Sitemap](#sitemap)
 * [Social Media](#social-media)
-* [Analytics](#analytics)
-* [Tools](#tools)
+* [Tools & Services](#tools-services)
 
 ## URL
 * **Descriptive URLs:** use a descriptive page url, which should reflect your targeted keyword
@@ -105,20 +104,27 @@ search engines do not use this meta tag
 `<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=me">Google+ Profile</a>` or  
 `<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=publisher">Google+ Profile</a>`
 
-## Analytics
+## Tools & Services
+
+### Webmasters
+* **[Google Webmasters](https://www.google.com/webmasters/):** allows webmasters to check indexing status and optimize visibility ot their websites
+* **[Bing Webmasters](http://www.bing.com/toolbox/webmaster):** allows webmasters to add their websites to the Bing index crawler.
+
+### Analytics
 * **[Google Analytics](http://www.google.com/analytics/):** generate detailed statistics about a website's traffic
 * **[Piwik](http://piwik.org/):** is an open analytics platform
 * **[Yahoo Web Analytics](web.analytics.yahoo.com):** is Yahoo!’s alternative to the dominant Google Analytics.
 
-## Tools
-* [Google Webmasters](https://www.google.com/webmasters/)
-* [Bing Webmasters](http://www.bing.com/toolbox/webmaster)
-* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-* [AdWords Keyword Tool](https://adwords.google.com/KeywordPlanner)
-* [Google Trends](http://www.google.com/trends/)
-* [Structured Data Testing Tool](http://www.google.com/webmasters/tools/richsnippets)
-* [Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/)
-* [Google+ Snippet Creator](https://developers.google.com/+/web/snippet/)
-* [seo tool by feedthebot](http://www.feedthebot.com/tools/)
-* [Twitter card validator](https://cards-dev.twitter.com/validator)
-* [Facebook Debugger](https://developers.facebook.com/tools/debug)
+### Optimization
+* **[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/):** Page Speed Insights measures the performance of a page for mobile devices and desktop devices.
+* **[feedthebot seo tool](http://www.feedthebot.com/tools/):** displays: domain strength, links, image seo, social counts & mentions, page/technical seo, pagespeed and more.
+
+### Keywords
+* **[AdWords Keyword Tool](https://adwords.google.com/KeywordPlanner):** plan your Search Network campaigns and learn what your customers are looking for
+* **[Google Trends](http://www.google.com/trends/):** explore Google trending search topics with Google Trends.
+
+### Structured Data
+* **[Google+ Snippet Creator](https://developers.google.com/+/web/snippet/):** customize the snippet people see when your page is shared. 
+* **[Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/):** past in you rich snippets or url to test it
+* **[Twitter card validator](https://cards-dev.twitter.com/validator):** Enter the URL of the page with the meta tags to validate
+* **[Facebook Debugger](https://developers.facebook.com/tools/debug):** Enter the URL you want to scrape to see how the page's markup appears to Facebook.
