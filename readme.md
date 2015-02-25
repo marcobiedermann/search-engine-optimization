@@ -12,7 +12,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * [Mobile](#mobile)
 * [Sitemap](#sitemap)
 * [Social Media](#social-media)
-* [Tools & Services](#tools-services)
+* [Tools & Services](#tools--services)
 
 ## URL
 * **Descriptive URLs:** use a descriptive page url, which should reflect your targeted keyword
