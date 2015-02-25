@@ -32,7 +32,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 `<meta name="robots" content="">`
 * **File not found:** avoid `404 FILE_NOT_FOUND` errors
 * **Redirects:** Avoid redirects if possible. Use 301 redirect instead of 302
-* **Pagination:** implement the `rel="next"` and `rel="prev"` attributes to links
+* **[Pagination](https://support.google.com/webmasters/answer/1663744):** implement the `rel="next"` and `rel="prev"` attributes to links
 * **Moving a website:** redirect all your links to the new location via `.htaccess`
 * **Performance:** performance and loading time is important
 * **Validation:** write valid code ([HTML Validator](http://validator.w3.org/) [CSS Validator](http://jigsaw.w3.org/css-validator/))
@@ -66,7 +66,7 @@ search engines do not use this meta tag
 
 ## Images
 * **[File name](https://www.youtube.com/watch?v=h2SWuUobbr0):** use a short descriptive name
-* **Alt tag:** add an alt-tag this a description of the image (60 - 70 characters)
+* **[Alt tag](https://support.google.com/webmasters/answer/114016):** add an alt-tag this a description of the image (60 - 70 characters)
 * **Dimentions:** add the `width=""` and `height=""` attributes to the image
 * **[Responsive Images](http://www.w3.org/TR/html-picture-element/):** serve the most optimized image corresponding to the window size
 * **Size:** keep the filesize as low as possible
@@ -75,7 +75,7 @@ search engines do not use this meta tag
 ## Links
 * **Title:** add a descriptive title to links
 * **Backlinks:** Only add external links if you got a backlink to your site
-* **[nofollow](https://www.youtube.com/watch?v=x4UJS-LFRTU):** add `rel="nofollow"` attribute to external links only to prevent spam and bad links
+* **[nofollow](https://support.google.com/webmasters/answer/96569):** add `rel="nofollow"` attribute to external links only to prevent spam and bad links
 * **Internal links:** add ~3 internal links to your content
 
 ## Mobile
