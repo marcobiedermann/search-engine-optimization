@@ -15,3 +15,6 @@ Desktop.ini
 Thumb.db
 Thumbs.db
 nbproject
+
+_site
+.sass-cache
