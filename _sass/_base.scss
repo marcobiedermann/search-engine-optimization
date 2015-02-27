@@ -1,0 +1,162 @@
+@-ms-viewport {
+  width: device-width;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+
+  &:before,
+  &:after {
+    box-sizing: border-box;
+  }
+
+}
+
+-moz-::selection,
+::selection {
+  background: $color;
+  color: $color-bg;
+  text-shadow: none;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  font-size: $root-font-size;
+  height: 100%;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  background: $color-bg;
+  color: $color;
+  font: $font-weight #{$font-size}/#{$line-height} $font-family, $font-family-fallback;
+  height: 100%;
+  margin: 0;
+  position: relative;
+}
+
+footer,
+header,{
+  display: block;
+}
+
+a {
+  background: transparent;
+  border: 0;
+  color: $color-link;
+  text-decoration: none;
+  transition: background-color .3s, color .3s;
+
+  &:active {
+    color: $color-link-active;
+  }
+
+  &:focus,
+  &:hover {
+    color: $color-link-hover;
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+}
+
+em {
+  font-style: italic;
+}
+
+b,
+strong {
+  font-weight: bold;
+}
+
+blockquote {
+  margin: 0;
+  quotes: '\201C' '\201D' '\2018' '\2019';
+
+  p {
+
+    &:before {
+      content: open-quote;
+    }
+
+    &:after {
+      content: close-quote;
+    }
+
+  }
+
+}
+
+code {
+  font-family: $font-family-code, $font-family-code-fallback;
+  font-size: 1rem;
+}
+
+footer {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+hr {
+  background-color: $color-border;
+  border: 0;
+  box-sizing: content-box;
+  height: 1px;
+  margin: 0 0 1.5rem;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+ol,
+ul {
+  list-style-position: inside;
+  margin: 0 0 1.5rem;
+  padding: 0;
+
+  ol,
+  ul {
+    margin: .5rem 0 0;
+    padding-left: 1.5rem;
+  }
+
+  li {
+    margin-bottom: .5rem;
+  }
+
+}
+
+p {
+  margin: 0 0 .5rem;
+}
+
+pre {
+  display: block;
+  margin: 0;
+  overflow: auto;
+  word-break: break-all;
+  word-wrap: break-word;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  text-align: left;
+  width: 100%;
+}
+
+caption,
+td,
+th {
+  padding: 0;
+  vertical-align: top;
+}
