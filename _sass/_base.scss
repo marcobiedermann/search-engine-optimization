@@ -3,14 +3,7 @@
 }
 
 * {
-  box-sizing: border-box;
   -webkit-tap-highlight-color: transparent;
-
-  &:before,
-  &:after {
-    box-sizing: border-box;
-  }
-
 }
 
 -moz-::selection,
@@ -96,6 +89,9 @@ blockquote {
 code {
   font-family: $font-family-code, $font-family-code-fallback;
   font-size: 1rem;
+  overflow: auto;
+  word-break: break-all;
+  word-wrap: break-word;
 }
 
 footer {
