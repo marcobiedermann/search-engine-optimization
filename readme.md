@@ -1,4 +1,4 @@
-# Search Engine Optimization (SEO)
+# [Search Engine Optimization (SEO)](http://marcobiedermann.github.io/search-engine-optimization/)
 A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
 
 ## Table of Contents
