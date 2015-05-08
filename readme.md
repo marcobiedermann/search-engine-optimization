@@ -113,7 +113,7 @@ search engines do not use this meta tag
 ### Analytics
 * **[Google Analytics](http://www.google.com/analytics/):** generate detailed statistics about a website's traffic
 * **[Piwik](http://piwik.org/):** is an open analytics platform
-* **[Yahoo Web Analytics](web.analytics.yahoo.com):** is Yahoo!’s alternative to the dominant Google Analytics.
+* **[Yahoo Web Analytics](http://web.analytics.yahoo.com):** is Yahoo!’s alternative to the dominant Google Analytics.
 
 ### Optimization
 * **[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/):** Page Speed Insights measures the performance of a page for mobile devices and desktop devices.
