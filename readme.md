@@ -75,10 +75,11 @@ search engines do not use this meta tag
 * **[Optimization](https://imageoptim.com/):** Optimize images by removing some meta information
 
 ## Links
-* **Title:** add a descriptive title to links
+* **Title:** add the title attribute to links
 * **Backlinks:** Only add external links if you got a backlink to your site
 * **[nofollow](https://support.google.com/webmasters/answer/96569):** add `rel="nofollow"` attribute to external links only to prevent spam and bad links
 * **Internal links:** add ~3 internal links to your content
+* **Naming:** Use a descriptive link name: “Click here” or “Read more” are bad link text. Better “Read more about SEO and Web Accessibility”
 
 ## Mobile
 * **Viewport:** tell browsers how to adjust the page's dimension and scaling to suit the device  
