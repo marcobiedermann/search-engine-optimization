@@ -65,6 +65,7 @@ search engines do not use this meta tag
 * **[Uniqueness](https://www.youtube.com/watch?v=mQZY7EmjbMA):** do not provide duplicated content, use unique content types
 * **Length:** article should be at least 300 words
 * **Freshness:** new content is important. Updating pages or regulary posting is recommended
+* **Flash:** avoid Flash content and flash pages. They are not accessible on mobile phones and will be ranked lower
 
 ## Images
 * **[File name](https://www.youtube.com/watch?v=h2SWuUobbr0):** use a short descriptive name
