@@ -82,7 +82,7 @@ search engines do not use this meta tag
 
 ## Mobile
 * **Viewport:** tell browsers how to adjust the page's dimension and scaling to suit the device  
-`<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">`
+`<meta name="viewport" content="width=device-width, initial-scale=1">`
 * **[mobile friendly](http://googlewebmastercentral.blogspot.be/2014/11/helping-users-find-mobile-friendly-pages.html):** mobile optimized sites are marked in search results. Test for [mobile friendly site](https://www.google.com/webmasters/tools/mobile-friendly/)
 * **[AppLinks](http://applinks.org/documentation/):** apps that link to your content can then use this metadata to deep-link into your app
 * **[Tap targets](https://developers.google.com/speed/docs/insights/SizeTapTargetsAppropriately):** clickable links should not be too small
