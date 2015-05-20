@@ -1,6 +1,7 @@
 # [Search Engine Optimization (SEO)](http://marcobiedermann.github.io/search-engine-optimization/)
 
 [![Join the chat at https://gitter.im/marcobiedermann/search-engine-optimization](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marcobiedermann/search-engine-optimization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
 
 ## Table of Contents
