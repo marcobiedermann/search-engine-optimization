@@ -41,6 +41,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **[WAI-Aria](http://www.w3.org/TR/wai-aria/):** use WAI-Aria tags to help machines understanding your code
 * **[RichSnippets](http://schema.org/):** markup your code with rich snippets, they show up on the search results page
 * **[Custom Search](https://developers.google.com/structured-data/slsb-overview):** with sitelink Google Sitelink search box, people can reach your content more quickly
+* **Layout:** Use `divs` instead of `tables` for layout. Using `tables` is semantically not correct.
 
 ## Meta Information
 * **Title:** each page shound have a unique speaking title (60 - 100 characters)  
