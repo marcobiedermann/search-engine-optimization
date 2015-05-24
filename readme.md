@@ -10,6 +10,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * [Meta Information](#meta-information)
 * [Keywords](#keywords)
 * [Content](#content)
+* [Videos](#videos)
 * [Images](#images)
 * [Links](#links)
 * [Mobile](#mobile)
@@ -75,6 +76,12 @@ search engines do not use this meta tag
 * **[Responsive Images](http://www.w3.org/TR/html-picture-element/):** serve the most optimized image corresponding to the window size
 * **Size:** keep the filesize as low as possible
 * **[Optimization](https://imageoptim.com/):** Optimize images by removing some meta information
+
+## Videos
+* **Controls:** Add controls to playback and control you video
+* **Embed:** Allow others to embed you videos
+* **Transcriptions:** use transcriptions for indexing, usability & content
+* **[Unplayable content](https://developers.google.com/webmasters/mobile-sites/mobile-seo/common-mistakes/unplayable-content):** Avoid unplayable video content. Use HTML5 `<video>` tag instead of Flash
 
 ## Links
 * **Title:** add the title attribute to links
