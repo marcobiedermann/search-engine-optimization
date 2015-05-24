@@ -36,7 +36,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **Redirects:** Avoid redirects if possible. Use 301 redirect instead of 302
 * **[Pagination](https://support.google.com/webmasters/answer/1663744):** implement the `rel="next"` and `rel="prev"` attributes to links
 * **Moving a website:** redirect all your links to the new location via `.htaccess`
-* **Performance:** performance and loading time is important
+* **[Performance](https://developers.google.com/webmasters/mobile-sites/mobile-seo/common-mistakes/slow-mobile-pages):** performance and loading time is important
 * **Validation:** write valid code ([HTML Validator](http://validator.w3.org/) [CSS Validator](http://jigsaw.w3.org/css-validator/))
 * **[WAI-Aria](http://www.w3.org/TR/wai-aria/):** use WAI-Aria tags to help machines understanding your code
 * **[RichSnippets](http://schema.org/):** markup your code with rich snippets, they show up on the search results page
