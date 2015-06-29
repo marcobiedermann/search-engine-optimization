@@ -143,6 +143,7 @@ search engines do not use this meta tag
 * **[Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/):** past in you rich snippets or url to test it
 * **[Twitter card validator](https://cards-dev.twitter.com/validator):** Enter the URL of the page with the meta tags to validate
 * **[Facebook Debugger](https://developers.facebook.com/tools/debug):** Enter the URL you want to scrape to see how the page's markup appears to Facebook.
+* **[Pinterest](https://developers.pinterest.com/rich_pins/validator/):** Validate your Rich Pins and apply to get them on Pinterest
 
 ### Bookmarklets
 * **[OuiSEO](https://github.com/carlsednaoui/seo-bookmarklet):** An open-source bookmarklet that shows you on-page SEO and social meta data information.
