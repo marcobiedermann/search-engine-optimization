@@ -18,6 +18,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * [Sitemap](#sitemap)
 * [Social Media](#social-media)
 * [Tools & Services](#tools--services)
+* [Books](#books)
 
 ## URL
 * **Descriptive URLs:** use a descriptive page url, which should reflect your targeted keyword
@@ -149,6 +150,10 @@ search engines do not use this meta tag
 ### Bookmarklets
 * **[OuiSEO](https://github.com/carlsednaoui/seo-bookmarklet):** An open-source bookmarklet that shows you on-page SEO and social meta data information.
 * **[SEO Bookmarklet](http://twkm.ca/projects/seo-bookmarklet):** A One-Stop SEO Bookmarklet to Quickly Review On-Site SEO
+
+## Books
+* **[SEO Warrior](http://shop.oreilly.com/product/9780596157081.do):** Essential Techniques for Increasing Web Visibility
+* **[The Art of SEO](http://shop.oreilly.com/product/9780596518875.do):** Mastering Search Engine Optimization
 
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
