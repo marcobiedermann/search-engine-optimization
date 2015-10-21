@@ -18,6 +18,12 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * [Sitemap](#sitemap)
 * [Social Media](#social-media)
 * [Tools & Services](#tools--services)
+  * [Webmasters](#webmasters)
+  * [Analytics](#analytics)
+  * [Optimization](#optimization)
+  * [Keywords](#keywords-1)
+  * [Structured Data](#structured-data)
+  * [Bookmarklets](#bookmarklets)
 * [Books](#books)
 
 ## URL
@@ -47,13 +53,13 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **Layout:** Use `divs` instead of `tables` for layout. Using `tables` is semantically not correct.
 
 ## Meta Information
-* **Title:** each page shound have a unique speaking title (60 - 100 characters)  
+* **Title:** each page should have a unique speaking title (60 - 100 characters)  
 `<title>Website Title</title>`
 * **[Description](https://www.youtube.com/watch?v=W4gr88oHb-k):** each page should have a unique description (max. 160 characters)  
 `<meta name="description" content="">`
 
 ## Keywords
-* **Single:** every page shound have a single unique targeted keyword
+* **Single:** every page should have a single unique targeted keyword
 * **Research:** rank for keywords with high traffic and less competition
 * **[URL](https://www.youtube.com/watch?v=rAWFv43qubI):** keyword should appear in URL name
 * **Title:** keyword should appear in page title
@@ -80,8 +86,8 @@ search engines do not use this meta tag
 * **[Optimization](https://imageoptim.com/):** Optimize images by removing some meta information
 
 ## Videos
-* **Controls:** Add controls to playback and control you video
-* **Embed:** Allow others to embed you videos
+* **Controls:** Add controls to playback and control your video
+* **Embed:** Allow others to embed your videos
 * **Transcriptions:** use transcriptions for indexing, usability & content
 * **[Unplayable content](https://developers.google.com/webmasters/mobile-sites/mobile-seo/common-mistakes/unplayable-content):** Avoid unplayable video content. Use HTML5 `<video>` tag instead of Flash
 
