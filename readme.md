@@ -1,5 +1,6 @@
 # [Search Engine Optimization (SEO)](http://marcobiedermann.github.io/search-engine-optimization/)
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Join the chat at https://gitter.im/marcobiedermann/search-engine-optimization](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marcobiedermann/search-engine-optimization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
@@ -17,13 +18,21 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * [Sitemap](#sitemap)
 * [Social Media](#social-media)
 * [Tools & Services](#tools--services)
+  * [Webmasters](#webmasters)
+  * [Analytics](#analytics)
+  * [Optimization](#optimization)
+  * [Keywords](#keywords-1)
+  * [Structured Data](#structured-data)
+  * [Bookmarklets](#bookmarklets)
+* [Books](#books)
+* [Courses](#courses)
 
 ## URL
 * **Descriptive URLs:** use a descriptive page url, which should reflect your targeted keyword
 * **[Subdomain or subfolder](https://www.youtube.com/watch?v=_MswMYk05tk):** subdomains are seen as separate domains
 * **[Hyphens](https://www.youtube.com/watch?v=AQcSFsQyct8):** split words using hyphens
 * **[www or no-www](https://support.google.com/webmasters/answer/44231):** provide both domains, but set a prefered version in Google Webmaster Tools
-* **[Localisation](https://support.google.com/webmasters/answer/62399):** chookse a country-specific domain, for better local search results
+* **[Localisation](https://support.google.com/webmasters/answer/62399):** choose a country-specific domain, for better local search results
 * **[HTTPS](http://googlewebmastercentral.blogspot.be/2014/08/https-as-ranking-signal.html):** Security is a top priority for Google
 * **[URL builder](https://support.google.com/analytics/answer/1033867):** Use this tool to add custom compaign parameters to your URLs
 * **[File extension](https://www.youtube.com/watch?v=dSG6C33GwsE)**: do not strip out the file extension on URLs
@@ -45,13 +54,13 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **Layout:** Use `divs` instead of `tables` for layout. Using `tables` is semantically not correct.
 
 ## Meta Information
-* **Title:** each page shound have a unique speaking title (60 - 100 characters)  
+* **Title:** each page should have a unique speaking title (60 - 100 characters)  
 `<title>Website Title</title>`
 * **[Description](https://www.youtube.com/watch?v=W4gr88oHb-k):** each page should have a unique description (max. 160 characters)  
 `<meta name="description" content="">`
 
 ## Keywords
-* **Single:** every page shound have a single unique targeted keyword
+* **Single:** every page should have a single unique targeted keyword
 * **Research:** rank for keywords with high traffic and less competition
 * **[URL](https://www.youtube.com/watch?v=rAWFv43qubI):** keyword should appear in URL name
 * **Title:** keyword should appear in page title
@@ -78,8 +87,8 @@ search engines do not use this meta tag
 * **[Optimization](https://imageoptim.com/):** Optimize images by removing some meta information
 
 ## Videos
-* **Controls:** Add controls to playback and control you video
-* **Embed:** Allow others to embed you videos
+* **Controls:** Add controls to playback and control your video
+* **Embed:** Allow others to embed your videos
 * **Transcriptions:** use transcriptions for indexing, usability & content
 * **[Unplayable content](https://developers.google.com/webmasters/mobile-sites/mobile-seo/common-mistakes/unplayable-content):** Avoid unplayable video content. Use HTML5 `<video>` tag instead of Flash
 
@@ -143,10 +152,20 @@ search engines do not use this meta tag
 * **[Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/):** past in you rich snippets or url to test it
 * **[Twitter card validator](https://cards-dev.twitter.com/validator):** Enter the URL of the page with the meta tags to validate
 * **[Facebook Debugger](https://developers.facebook.com/tools/debug):** Enter the URL you want to scrape to see how the page's markup appears to Facebook.
+* **[Pinterest](https://developers.pinterest.com/rich_pins/validator/):** Validate your Rich Pins and apply to get them on Pinterest
 
 ### Bookmarklets
 * **[OuiSEO](https://github.com/carlsednaoui/seo-bookmarklet):** An open-source bookmarklet that shows you on-page SEO and social meta data information.
 * **[SEO Bookmarklet](http://twkm.ca/projects/seo-bookmarklet):** A One-Stop SEO Bookmarklet to Quickly Review On-Site SEO
+
+## Books
+* **[SEO Warrior](http://shop.oreilly.com/product/9780596157081.do):** Essential Techniques for Increasing Web Visibility
+* **[The Art of SEO](http://shop.oreilly.com/product/9780596518875.do):** Mastering Search Engine Optimization
+
+## Courses
+* **[SEO Fundamentals](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html):** SEO Fundamentals with David Booth by Lynda.com
+* **[SEO Fundamentals](http://www.pluralsight.com/courses/seo-fundamentals):** SEO Fundamentals with Paul Wilson by Pluralsight
+* **[SEO for Web Designers](http://webdesign.tutsplus.com/courses/seo-for-web-designers):** SEO for Web Designers with Craig Campbell by TutsPlus
 
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
