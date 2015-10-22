@@ -25,6 +25,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
   * [Structured Data](#structured-data)
   * [Bookmarklets](#bookmarklets)
 * [Books](#books)
+* [Courses](#courses)
 
 ## URL
 * **Descriptive URLs:** use a descriptive page url, which should reflect your targeted keyword
@@ -160,6 +161,11 @@ search engines do not use this meta tag
 ## Books
 * **[SEO Warrior](http://shop.oreilly.com/product/9780596157081.do):** Essential Techniques for Increasing Web Visibility
 * **[The Art of SEO](http://shop.oreilly.com/product/9780596518875.do):** Mastering Search Engine Optimization
+
+## Courses
+* **[SEO Fundamentals](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html):** SEO Fundamentals with David Booth by Lynda.com
+* **[SEO Fundamentals](http://www.pluralsight.com/courses/seo-fundamentals):** SEO Fundamentals with Paul Wilson by Pluralsight
+* **[SEO for Web Designers](http://webdesign.tutsplus.com/courses/seo-for-web-designers):** SEO for Web Designers with Craig Campbell by TutsPlus
 
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
