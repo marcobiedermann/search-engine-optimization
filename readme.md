@@ -163,8 +163,13 @@ search engines do not use this meta tag
 * **[The Art of SEO](http://shop.oreilly.com/product/9780596518875.do):** Mastering Search Engine Optimization
 
 ## Courses
+* **[ClickMinded Search Engine Optimization Training](https://www.udemy.com/seo-training/):** ClickMinded Search Engine Optimization Training with Tommy Griffith by udemy
+* **[Ecommerce SEO 101 Video Series](https://www.shopify.com/videos/ecommerce-seo-101):** Ecommerce SEO 101 Video Series with Helen Overland by shopify
+* **[Learning Search Engine Optimization (SEO): A Video Introduction](https://www.video2brain.com/en/courses/learning-search-engine-optimization-seo-a-video-introduction):** Learning Search Engine Optimization (SEO): A Video Introduction with Matt Bailey by video2brain
+* **[Learning Web Analytics](https://www.video2brain.com/en/courses/learning-web-analytics):** Learning Web Analytics with Matt Bailey by video2brain
 * **[SEO Fundamentals](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html):** SEO Fundamentals with David Booth by Lynda.com
 * **[SEO Fundamentals](http://www.pluralsight.com/courses/seo-fundamentals):** SEO Fundamentals with Paul Wilson by Pluralsight
+* **[SEO Training Course by Moz](https://www.udemy.com/whiteboard-seo/):** SEO Training Course with Moz by udemy
 * **[SEO for Web Designers](http://webdesign.tutsplus.com/courses/seo-for-web-designers):** SEO for Web Designers with Craig Campbell by TutsPlus
 
 ## License
