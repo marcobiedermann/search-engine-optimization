@@ -9,6 +9,8 @@ url: "http://marcobiedermann.github.io" # the base hostname & protocol for your 
 twitter_username: m412c0b
 github_username:  marcobiedermann
 exclude: [readme.md]
+sass:
+  style: compressed
 
 # Build settings
 markdown: kramdown
