@@ -2,10 +2,10 @@
 # Stylesheet
 ---
 
-@import '_variables.scss';
-@import '_colors.scss';
+@import '_variables';
+@import '_colors';
 
-@import '_base.scss';
-@import 'modules/_forkme.scss';
+@import '_base';
+@import 'modules/_forkme';
 
-@import 'helpers/_grid.scss';
+@import 'helpers/_grid';
