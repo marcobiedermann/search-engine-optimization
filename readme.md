@@ -160,7 +160,7 @@ search engines do not use this meta tag
 
 ## Books
 * **[SEO Warrior](http://shop.oreilly.com/product/9780596157081.do):** Essential Techniques for Increasing Web Visibility
-* **[The Art of SEO](http://shop.oreilly.com/product/9780596518875.do):** Mastering Search Engine Optimization
+* **[The Art of SEO, 3rd Edition](http://shop.oreilly.com/product/0636920032908.do):** Mastering Search Engine Optimization
 
 ## Courses
 * **[ClickMinded Search Engine Optimization Training](https://www.udemy.com/seo-training/):** ClickMinded Search Engine Optimization Training with Tommy Griffith by udemy
