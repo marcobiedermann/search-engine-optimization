@@ -159,7 +159,10 @@ search engines do not use this meta tag
 * **[SEO Bookmarklet](http://twkm.ca/projects/seo-bookmarklet):** A One-Stop SEO Bookmarklet to Quickly Review On-Site SEO
 
 ## Books
+* **[SEO 2016: Learn Search Engine Optimization](http://www.amazon.com/dp/1512275069/ref=cm_sw_su_dp):** A Comprehensive Must-Have Guide to SEO in Today's Competitive Search Environment 
+* **[SEO For Dummies, 6th Edition](http://shop.oreilly.com/product/9781119129554.do):** Your fully updated guide to search engine optimization
 * **[SEO Warrior](http://shop.oreilly.com/product/9780596157081.do):** Essential Techniques for Increasing Web Visibility
+* **[Search engine optimization 2016: Learn SEO with smart internet marketing strategies](http://www.amazon.com/dp/151534567X/ref=cm_sw_su_dp):** Learn SEO strategies to rank at the top of Google with SEO 2016
 * **[The Art of SEO, 3rd Edition](http://shop.oreilly.com/product/0636920032908.do):** Mastering Search Engine Optimization
 
 ## Courses
