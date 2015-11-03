@@ -140,7 +140,7 @@ search engines do not use this meta tag
 
 ### Optimization
 * **[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/):** Page Speed Insights measures the performance of a page for mobile devices and desktop devices.
-* **[feedthebot seo tool](http://www.feedthebot.com/tools/):** displays: domain strength, links, image seo, social counts & mentions, page/technical seo, pagespeed and more.
+* **[Varvy Seo tool](https://varvy.com/tools/):** displays: domain strength, links, image seo, social counts & mentions, page/technical seo, pagespeed and more.
 * **[Webpagetest.org](http://www.webpagetest.org/):** Web Page Test gives you an overall performance waterfall as well as rendering timeline for sites. It also provides critical insight into time to first byte and what could be holding back web page performance
 
 ### Keywords
