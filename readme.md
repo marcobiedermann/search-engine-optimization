@@ -173,6 +173,7 @@ search engines do not use this meta tag
 * **[SEO Fundamentals](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html):** SEO Fundamentals with David Booth by Lynda.com
 * **[SEO Fundamentals](http://www.pluralsight.com/courses/seo-fundamentals):** SEO Fundamentals with Paul Wilson by Pluralsight
 * **[SEO Training Course by Moz](https://www.udemy.com/whiteboard-seo/):** SEO Training Course with Moz by udemy
+* **[SEO for Beginners](http://seoforbeginners.com/):** SEO for Beginners: A Video Guide Introduction
 * **[SEO for Web Designers](http://webdesign.tutsplus.com/courses/seo-for-web-designers):** SEO for Web Designers with Craig Campbell by TutsPlus
 
 ## License
