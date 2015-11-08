@@ -40,7 +40,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 ## Accessibility
 * **403:** provide a 403 - Access denied page
 * **404:** provide a 404 - Page not found page
-* **Robots:** block pages which should not be indexed via the `robots.txt` file or  
+* **Robots:** block pages which should not be indexed via the `robots.txt` file or
 `<meta name="robots" content="">`
 * **File not found:** avoid `404 FILE_NOT_FOUND` errors
 * **Redirects:** Avoid redirects if possible. Use 301 redirect instead of 302
@@ -54,9 +54,9 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **Layout:** Use `divs` instead of `tables` for layout. Using `tables` is semantically not correct.
 
 ## Meta Information
-* **Title:** each page should have a unique speaking title (60 - 100 characters)  
+* **Title:** each page should have a unique speaking title (60 - 100 characters)
 `<title>Website Title</title>`
-* **[Description](https://www.youtube.com/watch?v=W4gr88oHb-k):** each page should have a unique description (max. 160 characters)  
+* **[Description](https://www.youtube.com/watch?v=W4gr88oHb-k):** each page should have a unique description (max. 160 characters)
 `<meta name="description" content="">`
 
 ## Keywords
@@ -66,7 +66,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **Title:** keyword should appear in page title
 * **Heading:** keyword should appear in headings
 * **Content:** keyword should apear in ~3% of article length
-* **[Meta Tag](https://www.youtube.com/watch?v=jK7IPbnmvVU):** you can ommit the `<meta name="keywords" content="">`,  
+* **[Meta Tag](https://www.youtube.com/watch?v=jK7IPbnmvVU):** you can ommit the `<meta name="keywords" content="">`,
 search engines do not use this meta tag
 
 ## Content
@@ -100,7 +100,7 @@ search engines do not use this meta tag
 * **Naming:** Use a descriptive link name: “Click here” or “Read more” are bad link text. Better “Read more about SEO and Web Accessibility”
 
 ## Mobile
-* **Viewport:** tell browsers how to adjust the page's dimension and scaling to suit the device  
+* **Viewport:** tell browsers how to adjust the page's dimension and scaling to suit the device
 `<meta name="viewport" content="width=device-width, initial-scale=1">`
 * **[mobile friendly](http://googlewebmastercentral.blogspot.be/2014/11/helping-users-find-mobile-friendly-pages.html):** mobile optimized sites are marked in search results. Test for [mobile friendly site](https://www.google.com/webmasters/tools/mobile-friendly/)
 * **[AppLinks](http://applinks.org/documentation/):** apps that link to your content can then use this metadata to deep-link into your app
@@ -121,10 +121,10 @@ search engines do not use this meta tag
 * **[Facebook](https://developers.facebook.com/docs/sharing/best-practices):** Sharing Best Practices for Websites & Mobile Apps
 * **[Twitter](https://dev.twitter.com/cards/getting-started):** with Twitter cards, you can attach photos, videos and media experience to you Tweets
 * Authorship information
-* **[Google+ Authorship](https://www.youtube.com/watch?v=FgFb6Y-UJUI):** add Google+ authorship information to your page  
-`<link rel="author" href="https://plus.google.com/u/0/[GOOGLE+ ID]">`  or  
-`<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=author">Google+ Profile</a>` or  
-`<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=me">Google+ Profile</a>` or  
+* **[Google+ Authorship](https://www.youtube.com/watch?v=FgFb6Y-UJUI):** add Google+ authorship information to your page
+`<link rel="author" href="https://plus.google.com/u/0/[GOOGLE+ ID]">`  or
+`<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=author">Google+ Profile</a>` or
+`<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=me">Google+ Profile</a>` or
 `<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=publisher">Google+ Profile</a>`
 
 ## Tools & Services
@@ -148,7 +148,7 @@ search engines do not use this meta tag
 * **[Google Trends](http://www.google.com/trends/):** explore Google trending search topics with Google Trends.
 
 ### Structured Data
-* **[Google+ Snippet Creator](https://developers.google.com/+/web/snippet/):** customize the snippet people see when your page is shared. 
+* **[Google+ Snippet Creator](https://developers.google.com/+/web/snippet/):** customize the snippet people see when your page is shared.
 * **[Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/):** past in you rich snippets or url to test it
 * **[Twitter card validator](https://cards-dev.twitter.com/validator):** Enter the URL of the page with the meta tags to validate
 * **[Facebook Debugger](https://developers.facebook.com/tools/debug):** Enter the URL you want to scrape to see how the page's markup appears to Facebook.
@@ -159,7 +159,7 @@ search engines do not use this meta tag
 * **[SEO Bookmarklet](http://twkm.ca/projects/seo-bookmarklet):** A One-Stop SEO Bookmarklet to Quickly Review On-Site SEO
 
 ## Books
-* **[SEO 2016: Learn Search Engine Optimization](http://www.amazon.com/dp/1512275069/ref=cm_sw_su_dp):** A Comprehensive Must-Have Guide to SEO in Today's Competitive Search Environment 
+* **[SEO 2016: Learn Search Engine Optimization](http://www.amazon.com/dp/1512275069/ref=cm_sw_su_dp):** A Comprehensive Must-Have Guide to SEO in Today's Competitive Search Environment
 * **[SEO For Dummies, 6th Edition](http://shop.oreilly.com/product/9781119129554.do):** Your fully updated guide to search engine optimization
 * **[SEO Warrior](http://shop.oreilly.com/product/9780596157081.do):** Essential Techniques for Increasing Web Visibility
 * **[Search engine optimization 2016: Learn SEO with smart internet marketing strategies](http://www.amazon.com/dp/151534567X/ref=cm_sw_su_dp):** Learn SEO strategies to rank at the top of Google with SEO 2016
