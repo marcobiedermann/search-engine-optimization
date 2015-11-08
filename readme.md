@@ -147,6 +147,9 @@ search engines do not use this meta tag
 * **[AdWords Keyword Tool](https://adwords.google.com/KeywordPlanner):** plan your Search Network campaigns and learn what your customers are looking for
 * **[Google Trends](http://www.google.com/trends/):** explore Google trending search topics with Google Trends.
 
+### Links
+* **[Screaming Frog SEO Spider Tool & Crawler Software](http://www.screamingfrog.co.uk/seo-spider/):** The Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites’ links, images, CSS, script and apps from an SEO perspective.
+
 ### Structured Data
 * **[Google+ Snippet Creator](https://developers.google.com/+/web/snippet/):** customize the snippet people see when your page is shared.
 * **[Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/):** past in you rich snippets or url to test it
