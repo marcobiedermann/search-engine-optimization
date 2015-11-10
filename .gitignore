@@ -17,4 +17,5 @@ Thumbs.db
 nbproject
 
 _site
+.jekyll-metadata
 .sass-cache
