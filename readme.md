@@ -1,7 +1,7 @@
 # [Search Engine Optimization (SEO)](//marcobiedermann.github.io/search-engine-optimization/)
 
-[![Awesome](//cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](//github.com/sindresorhus/awesome)
-[![Join the chat at //gitter.im/marcobiedermann/search-engine-optimization](//badges.gitter.im/Join%20Chat.svg)](//gitter.im/marcobiedermann/search-engine-optimization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](//github.com/sindresorhus/awesome)
+[![Join the chat at https://gitter.im/marcobiedermann/search-engine-optimization](https://badges.gitter.im/Join%20Chat.svg)](//gitter.im/marcobiedermann/search-engine-optimization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
 
@@ -180,4 +180,4 @@ search engines do not use this meta tag
 * **[SEO for Web Designers](//webdesign.tutsplus.com/courses/seo-for-web-designers):** SEO for Web Designers with Craig Campbell by TutsPlus
 
 ## License
-[![CC0](//i.creativecommons.org/p/zero/1.0/88x31.png)](//creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](//creativecommons.org/publicdomain/zero/1.0/)
