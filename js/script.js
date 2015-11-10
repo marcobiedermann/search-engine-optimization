@@ -36,12 +36,12 @@
   // requestAnimationFrame
   var lastTime = 0;
   var vendors = ['ms', 'moz', 'webkit', 'o'];
-  var x;
+  var i;
   var length = vendors.length;
 
-  for (x = 0; x < length && !requestAnimationFrame; ++x) {
-    requestAnimationFrame = [vendors[x] + 'RequestAnimationFrame'];
-    cancelAnimationFrame = [vendors[x] + 'CancelAnimationFrame'] || [vendors[x] + 'CancelRequestAnimationFrame'];
+  for (i = 0; i < length && !requestAnimationFrame; ++i) {
+    requestAnimationFrame = [vendors[i] + 'RequestAnimationFrame'];
+    cancelAnimationFrame = [vendors[i] + 'CancelAnimationFrame'] || [vendors[i] + 'CancelRequestAnimationFrame'];
   }
 
   if (!requestAnimationFrame)
@@ -98,5 +98,15 @@
   $('a[href^="#"]').on('click', function() {
     scrollTo(document.getElementById(this.href.split('#')[1]).offsetTop, 800, easing.easeInOutQuad);
   });
+
+  // Links
+  var links = document.links;
+  length = links.length;
+
+  for (i = 0; i < length; i++) {
+     if (links[i].hostname != window.location.hostname) {
+         links[i].target = '_blank';
+     }
+  }
 
 }(window, document));
