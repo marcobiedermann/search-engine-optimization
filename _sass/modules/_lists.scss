@@ -1,0 +1,16 @@
+ol,
+ul {
+  margin: 0 0 1.5rem;
+  padding: 0 0 0 1.5rem;
+
+  ol,
+  ul {
+    margin: .5rem 0 0;
+    padding-left: 1.5rem;
+  }
+
+  li {
+    margin-bottom: .25rem;
+  }
+
+}

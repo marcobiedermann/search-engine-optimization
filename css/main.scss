@@ -2,10 +2,20 @@
 # Stylesheet
 ---
 
-@import '_variables';
-@import '_colors';
+@import 'variables';
+@import 'base';
 
-@import '_base';
-@import 'modules/_github';
+@import 'layout/header';
+@import 'layout/footer';
 
-@import 'helpers/_grid';
+@import 'modules/code';
+@import 'modules/github';
+@import 'modules/grid';
+@import 'modules/headlines';
+@import 'modules/images';
+// @import 'modules/lines';
+@import 'modules/links';
+@import 'modules/lists';
+// @import 'modules/quotes';
+// @import 'modules/tables';
+@import 'modules/text';

@@ -1,12 +1,10 @@
-$root-font-size: 100%;
-$font-family: Arial;
-$font-family-fallback: sans-serif;
-$font-size: 1rem;
-$font-weight: 400;
+$base-bgcolor: #fdfdfd;
+$base-border-color: #808080;
+$base-color: #111;
+$base-font-family-fallback: sans-serif;
+$base-font-family: Helvetica Neue;
+$base-font-size: .875rem;
+$base-font-weight: 400;
+$base-line-height: 1.5;
 
-$line-height: 1.5em;
-
-$font-family-code: 'Courier New';
-$font-family-code-fallback: monospace;
-
-$grid-container: 48rem;
+$media-sm: 30rem;

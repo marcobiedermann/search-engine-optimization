@@ -1,0 +1,8 @@
+$grid-max-width: 48rem;
+$grid-width: 90%;
+
+.grid {
+  margin: 0 auto;
+  max-width: $grid-max-width;
+  width: $grid-width;
+}

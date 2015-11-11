@@ -1,0 +1,9 @@
+$headlines-color: #686868;
+
+@for $i from 1 through 6 {
+
+  h#{$i} {
+    margin: 0 0 .5rem;
+  }
+
+}
