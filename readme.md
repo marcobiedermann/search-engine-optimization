@@ -130,8 +130,9 @@ search engines do not use this meta tag
 ## Tools & Services
 
 ### Webmasters
-* **[Google Search Console (GWT)](//www.google.com/webmasters/):** allows webmasters to check indexing status and optimize visibility ot their websites
 * **[Bing Webmasters](//www.bing.com/toolbox/webmaster):** allows webmasters to add their websites to the Bing index crawler.
+* **[Google Search Console (GWT)](//www.google.com/webmasters/):** allows webmasters to check indexing status and optimize visibility ot their websites
+* **[Google Tag Manager](https://www.google.com/analytics/tag-manager/):** Learn about Google Analytics Tag Manager and how it can help simplify your life and need for IT requests. Launch new tags with a few clicks.
 
 ### Analytics
 * **[Google Analytics](//www.google.com/analytics/):** generate detailed statistics about a website's traffic
