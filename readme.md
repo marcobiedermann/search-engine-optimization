@@ -164,6 +164,9 @@ search engines do not use this meta tag
 * **[OuiSEO](//github.com/carlsednaoui/seo-bookmarklet):** An open-source bookmarklet that shows you on-page SEO and social meta data information.
 * **[SEO Bookmarklet](//twkm.ca/projects/seo-bookmarklet):** A One-Stop SEO Bookmarklet to Quickly Review On-Site SEO
 
+### Browser Extensions
+* **[MozBar](//moz.com/tools/seo-toolbar):** The SEO Toolbar from Moz gives you quick access to many on-page SEO factors, Domain & Page Authority plus a quick nofollow toggle. Download the Free Toolbar today!
+
 ## Books
 * **[SEO 2016: Learn Search Engine Optimization](//www.amazon.com/dp/1512275069/ref=cm_sw_su_dp):** A Comprehensive Must-Have Guide to SEO in Today's Competitive Search Environment
 * **[SEO For Dummies, 6th Edition](//shop.oreilly.com/product/9781119129554.do):** Your fully updated guide to search engine optimization
