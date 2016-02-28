@@ -137,6 +137,7 @@ search engines do not use this meta tag
 
 ### Analytics
 * **[Google Analytics](//www.google.com/analytics/):** generate detailed statistics about a website's traffic
+* **[Open Site Explorer](https://moz.com/researchtools/ose/):** Use Open Site Explorer to identify link building opportunities. Research backlinks, identify top pages, view social activity, and analyze anchor text.
 * **[Piwik](//piwik.org/):** is an open analytics platform
 * **[Twitter Analytics](//analytics.twitter.com/):** Measure and boost your impact on Twitter.
 * **[Yahoo Web Analytics](//web.analytics.yahoo.com):** is Yahoo!’s alternative to the dominant Google Analytics.
