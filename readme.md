@@ -1,7 +1,7 @@
 # [Search Engine Optimization (SEO)](//marcobiedermann.github.io/search-engine-optimization/)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](//github.com/sindresorhus/awesome)
-[![Join the chat at https://gitter.im/marcobiedermann/search-engine-optimization](https://badges.gitter.im/Join%20Chat.svg)](//gitter.im/marcobiedermann/search-engine-optimization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Awesome](//cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](//github.com/sindresorhus/awesome)
+[![Join the chat at //gitter.im/marcobiedermann/search-engine-optimization](//badges.gitter.im/Join%20Chat.svg)](//gitter.im/marcobiedermann/search-engine-optimization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
 
@@ -97,7 +97,7 @@ search engines do not use this meta tag
 * **Backlinks:** Only add external links if you got a backlink to your site
 * **[nofollow](//support.google.com/webmasters/answer/96569):** add `rel="nofollow"` attribute to external links only to prevent spam and bad links
 * **Internal links:** add ~3 internal links to your content
-* **[Languages](https://moz.com/learn/seo/hreflang-tag):** The hreflang tag tells Google which language you are using on a specific page, so the search engine can serve that result to users searching in that language `<link rel="alternate" href="example.com/fr/" hreflang="fr-fr" />`
+* **[Languages](//moz.com/learn/seo/hreflang-tag):** The hreflang tag tells Google which language you are using on a specific page, so the search engine can serve that result to users searching in that language `<link rel="alternate" href="example.com/fr/" hreflang="fr-fr" />`
 * **Naming:** Use a descriptive link name: “Click here” or “Read more” are bad link text. Better “Read more about SEO and Web Accessibility”
 
 ## Mobile
@@ -133,12 +133,12 @@ search engines do not use this meta tag
 ### Webmasters
 * **[Bing Webmasters](//www.bing.com/toolbox/webmaster):** allows webmasters to add their websites to the Bing index crawler.
 * **[Google Search Console (GWT)](//www.google.com/webmasters/):** allows webmasters to check indexing status and optimize visibility ot their websites
-* **[Google Tag Manager](https://www.google.com/analytics/tag-manager/):** Learn about Google Analytics Tag Manager and how it can help simplify your life and need for IT requests. Launch new tags with a few clicks.
+* **[Google Tag Manager](//www.google.com/analytics/tag-manager/):** Learn about Google Analytics Tag Manager and how it can help simplify your life and need for IT requests. Launch new tags with a few clicks.
 
 ### Analytics
 * **[Followerwonk](//moz.com/followerwonk):** Tools for Twitter Analytics, Bio Search and More
 * **[Google Analytics](//www.google.com/analytics/):** generate detailed statistics about a website's traffic
-* **[Open Site Explorer](https://moz.com/researchtools/ose/):** Use Open Site Explorer to identify link building opportunities. Research backlinks, identify top pages, view social activity, and analyze anchor text.
+* **[Open Site Explorer](//moz.com/researchtools/ose/):** Use Open Site Explorer to identify link building opportunities. Research backlinks, identify top pages, view social activity, and analyze anchor text.
 * **[Piwik](//piwik.org/):** is an open analytics platform
 * **[SEMrush](//www.semrush.com/):** SEMrush is a powerful and versatile competitive intelligence suite for online marketing, from SEO and PPC to social media and video advertising research.
 * **[Twitter Analytics](//analytics.twitter.com/):** Measure and boost your impact on Twitter.
@@ -200,4 +200,4 @@ search engines do not use this meta tag
 * **[WordPress Plugins: SEO](//www.lynda.com/WordPress-tutorials/WordPress-Plugins-SEO/140779-2.html):** Drive more visitors to your WordPress site by performing search engine optimization, or SEO, with the help of two powerful plugins. With Morten Rand-Hendriksen by Lynda.com
 
 ## License
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](//creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](//i.creativecommons.org/p/zero/1.0/88x31.png)](//creativecommons.org/publicdomain/zero/1.0/)
