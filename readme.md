@@ -136,6 +136,7 @@ search engines do not use this meta tag
 * **[Google Tag Manager](//www.google.com/analytics/tag-manager/):** Learn about Google Analytics Tag Manager and how it can help simplify your life and need for IT requests. Launch new tags with a few clicks.
 
 ### Analytics
+* **[Ahrefs](//ahrefs.com/):** Analyze websites, track social media, build backlinks - Ahrefs has you covered. Try our marketing and SEO tools Site Explorer and Content Explorer today!
 * **[Followerwonk](//moz.com/followerwonk):** Tools for Twitter Analytics, Bio Search and More
 * **[Google Analytics](//www.google.com/analytics/):** generate detailed statistics about a website's traffic
 * **[Open Site Explorer](//moz.com/researchtools/ose/):** Use Open Site Explorer to identify link building opportunities. Research backlinks, identify top pages, view social activity, and analyze anchor text.
