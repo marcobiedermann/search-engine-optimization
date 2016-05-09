@@ -137,6 +137,7 @@ search engines do not use this meta tag
 
 ### Analytics
 * **[Ahrefs](//ahrefs.com/):** Analyze websites, track social media, build backlinks - Ahrefs has you covered. Try our marketing and SEO tools Site Explorer and Content Explorer today!
+* **[BuzzSumo](//app.buzzsumo.com/research/most-shared):** Find the most shared content for any topic or domain.
 * **[Followerwonk](//moz.com/followerwonk):** Tools for Twitter Analytics, Bio Search and More
 * **[Google Analytics](//www.google.com/analytics/):** generate detailed statistics about a website's traffic
 * **[Open Site Explorer](//moz.com/researchtools/ose/):** Use Open Site Explorer to identify link building opportunities. Research backlinks, identify top pages, view social activity, and analyze anchor text.
