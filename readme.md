@@ -157,6 +157,7 @@ search engines do not use this meta tag
 * **[Google Trends](//www.google.com/trends/):** explore Google trending search topics with Google Trends.
 
 ### Links
+* **[OpenLinkProfiler](//www.openlinkprofiler.org/):** Get an in-depth analysis of the freshest live backlinks.
 * **[Screaming Frog SEO Spider Tool & Crawler Software](//www.screamingfrog.co.uk/seo-spider/):** The Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites’ links, images, CSS, script and apps from an SEO perspective.
 
 ### Structured Data
