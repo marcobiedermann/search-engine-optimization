@@ -11,3 +11,14 @@ sass:
 
 # Build settings
 markdown: kramdown
+
+# Compress HTML
+compress_html:
+  clippings: all
+  comments: []
+  endings: [p, li, td]
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+  startings: [html, head, body]
