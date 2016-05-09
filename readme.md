@@ -159,6 +159,7 @@ search engines do not use this meta tag
 ### Links
 * **[OpenLinkProfiler](//www.openlinkprofiler.org/):** Get an in-depth analysis of the freshest live backlinks.
 * **[Screaming Frog SEO Spider Tool & Crawler Software](//www.screamingfrog.co.uk/seo-spider/):** The Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites’ links, images, CSS, script and apps from an SEO perspective.
+* **[Search Engine Spider Simulator](//tools.seochat.com/tools/search-spider-simulator):** This tool simulates a search engine by displaying the contents of a web page in exactly the way the search engine bot would see it when it crawls the page: See most prominent or inaccessible page elements.
 
 ### Structured Data
 * **[Google+ Snippet Creator](//developers.google.com/+/web/snippet/):** customize the snippet people see when your page is shared.
