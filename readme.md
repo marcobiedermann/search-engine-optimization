@@ -22,8 +22,10 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
   * [Analytics](#analytics)
   * [Optimization](#optimization)
   * [Keywords](#keywords-1)
+  * [Links](#links)
   * [Structured Data](#structured-data)
   * [Bookmarklets](#bookmarklets)
+  * [Browser Extensions](#browser-extensions)
 * [Books](#books)
 * [Courses](#courses)
 
