@@ -26,6 +26,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
   * [Structured Data](#structured-data)
   * [Bookmarklets](#bookmarklets)
   * [Browser Extensions](#browser-extensions)
+  * [WordPress Plugins](#wordpress-plugins)
 * [Books](#books)
 * [Courses](#courses)
 
@@ -179,6 +180,10 @@ search engines do not use this meta tag
 
 ### Browser Extensions
 * **[MozBar](//moz.com/tools/seo-toolbar):** The SEO Toolbar from Moz gives you quick access to many on-page SEO factors, Domain & Page Authority plus a quick nofollow toggle. Download the Free Toolbar today!
+
+### WordPress Plugins
+* **[All in One SEO Pack](//wordpress.org/plugins/all-in-one-seo-pack/):** The most downloaded plugin for WordPress (almost 30 million downloads). Use All in One SEO Pack to automatically optimize your site for Search Engines
+* **[Yoast SEO](//wordpress.org/plugins/wordpress-seo/):** Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast SEO plugin.
 
 ## Books
 * **[SEO 2016: Learn Search Engine Optimization](//www.amazon.com/dp/1512275069/ref=cm_sw_su_dp):** A Comprehensive Must-Have Guide to SEO in Today's Competitive Search Environment
