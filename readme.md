@@ -146,6 +146,7 @@ search engines do not use this meta tag
 * **[Open Site Explorer](//moz.com/researchtools/ose/):** Use Open Site Explorer to identify link building opportunities. Research backlinks, identify top pages, view social activity, and analyze anchor text.
 * **[Piwik](//piwik.org/):** is an open analytics platform
 * **[SEMrush](//www.semrush.com/):** SEMrush is a powerful and versatile competitive intelligence suite for online marketing, from SEO and PPC to social media and video advertising research.
+* **[SEOstats](//github.com/eyecatchup/SEOstats):** SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
 * **[SimilarWeb](//www.similarweb.com/):** Compare website traffic with SimilarWeb.com's advanced traffic estimator tool. See any website's traffic sources & uncover their online marketing strategies.
 * **[Twitter Analytics](//analytics.twitter.com/):** Measure and boost your impact on Twitter.
 * **[Yahoo Web Analytics](//web.analytics.yahoo.com):** is Yahoo!’s alternative to the dominant Google Analytics.
