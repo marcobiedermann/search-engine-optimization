@@ -57,9 +57,9 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 * **Layout:** Use `divs` instead of `tables` for layout. Using `tables` is semantically not correct.
 
 ## Meta Information
-* **Title:** each page should have a unique speaking title (60 - 100 characters)
+* **Title:** each page should have a unique speaking title (60 - 100 characters)  
 `<title>Website Title</title>`
-* **[Description](//www.youtube.com/watch?v=W4gr88oHb-k):** each page should have a unique description (max. 160 characters)
+* **[Description](//www.youtube.com/watch?v=W4gr88oHb-k):** each page should have a unique description (max. 160 characters)  
 `<meta name="description" content="">`
 
 ## Keywords
@@ -100,11 +100,12 @@ search engines do not use this meta tag
 * **Backlinks:** Only add external links if you got a backlink to your site
 * **[nofollow](//support.google.com/webmasters/answer/96569):** add `rel="nofollow"` attribute to external links only to prevent spam and bad links
 * **Internal links:** add ~3 internal links to your content
-* **[Languages](//moz.com/learn/seo/hreflang-tag):** The hreflang tag tells Google which language you are using on a specific page, so the search engine can serve that result to users searching in that language `<link rel="alternate" href="example.com/fr/" hreflang="fr-fr" />`
+* **[Languages](//moz.com/learn/seo/hreflang-tag):** The hreflang tag tells Google which language you are using on a specific page, so the search engine can serve that result to users searching in that language  
+`<link rel="alternate" href="example.com/fr/" hreflang="fr-fr" />`
 * **Naming:** Use a descriptive link name: “Click here” or “Read more” are bad link text. Better “Read more about SEO and Web Accessibility”
 
 ## Mobile
-* **Viewport:** tell browsers how to adjust the page's dimension and scaling to suit the device
+* **Viewport:** tell browsers how to adjust the page's dimension and scaling to suit the device  
 `<meta name="viewport" content="width=device-width, initial-scale=1">`
 * **[mobile friendly](//googlewebmastercentral.blogspot.be/2014/11/helping-users-find-mobile-friendly-pages.html):** mobile optimized sites are marked in search results. Test for [mobile friendly site](//www.google.com/webmasters/tools/mobile-friendly/)
 * **[AppLinks](//applinks.org/documentation/):** apps that link to your content can then use this metadata to deep-link into your app
@@ -125,10 +126,10 @@ search engines do not use this meta tag
 * **[Facebook](//developers.facebook.com/docs/sharing/best-practices):** Sharing Best Practices for Websites & Mobile Apps
 * **[Twitter](//dev.twitter.com/cards/getting-started):** with Twitter cards, you can attach photos, videos and media experience to you Tweets
 * Authorship information
-* **[Google+ Authorship](//www.youtube.com/watch?v=FgFb6Y-UJUI):** add Google+ authorship information to your page
-`<link rel="author" href="//plus.google.com/u/0/[GOOGLE+ ID]">`  or
-`<a href="//plus.google.com/u/0/[GOOGLE+ ID]" rel=author">Google+ Profile</a>` or
-`<a href="//plus.google.com/u/0/[GOOGLE+ ID]" rel=me">Google+ Profile</a>` or
+* **[Google+ Authorship](//www.youtube.com/watch?v=FgFb6Y-UJUI):** add Google+ authorship information to your page  
+`<link rel="author" href="//plus.google.com/u/0/[GOOGLE+ ID]">` or   
+`<a href="//plus.google.com/u/0/[GOOGLE+ ID]" rel=author">Google+ Profile</a>` or  
+`<a href="//plus.google.com/u/0/[GOOGLE+ ID]" rel=me">Google+ Profile</a>` or  
 `<a href="//plus.google.com/u/0/[GOOGLE+ ID]" rel=publisher">Google+ Profile</a>`
 
 ## Tools & Services
