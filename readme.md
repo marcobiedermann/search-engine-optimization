@@ -193,6 +193,7 @@ search engines do not use this meta tag
 * **[SEO Warrior](//shop.oreilly.com/product/9780596157081.do):** Essential Techniques for Increasing Web Visibility
 * **[Search engine optimization 2016: Learn SEO with smart internet marketing strategies](//www.amazon.com/dp/151534567X/ref=cm_sw_su_dp):** Learn SEO strategies to rank at the top of Google with SEO 2016
 * **[The Art of SEO, 3rd Edition](//shop.oreilly.com/product/0636920032908.do):** Mastering Search Engine Optimization
+* **[The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo):** New to SEO? Need to polish up your knowledge? The Beginner's Guide to SEO has been read over 3 million times and provides the information you need to get on the road to professional quality SEO.
 
 ## Courses
 * **[Analyzing Your Website to Improve SEO](//www.lynda.com/Marketing-Small-Business-Marketing-tutorials/Analyzing-Your-Website-Improve-SEO/82409-2.html):** Walks step-by-step through the process of reviewing the content and markup of a web site to improve its ranking in search engine results. With Peter Kent by Lynda.com
