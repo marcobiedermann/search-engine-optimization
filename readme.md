@@ -1,7 +1,7 @@
 # [Search Engine Optimization (SEO)](https://marcobiedermann.github.io/search-engine-optimization/)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Join the chat at https://gitter.im/marcobiedermann/search-engine-optimization](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marcobiedermann/search-engine-optimization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/marcobiedermann/search-engine-optimization](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marcobiedermann/search-engine-optimization)
 
 A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 
@@ -187,14 +187,14 @@ search engines do not use this meta tag
 * **[Yoast SEO](https://wordpress.org/plugins/wordpress-seo/):** Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast SEO plugin.
 
 ## Books
-* **[SEO 2016: Learn Search Engine Optimization](https://www.amazon.com/dp/1512275069/ref=cm_sw_su_dp):** A Comprehensive Must-Have Guide to SEO in Today's Competitive Search Environment
+* **[SEO 2016: Learn Search Engine Optimization](https://www.amazon.com/SEO-2016-Search-Engine-Optimization/dp/1512275069):** A Comprehensive Must-Have Guide to SEO in Today's Competitive Search Environment
 * **[SEO Fitness Workbook](https://www.amazon.com/SEO-Fitness-Workbook-2016-Optimization/dp/1518748880):** Step-by-step book on SEO, starting with goals, going through on page SEO such as page tags, and ending up with off page SEO such as link-building and social mentions.
 * **[SEO For Dummies, 6th Edition](http://shop.oreilly.com/product/9781119129554.do):** Your fully updated guide to search engine optimization
 * **[SEO Step-by-Step - The Complete Beginner's Guide to Getting Traffic from Google](https://www.amazon.com/SEO-Step-Step-Complete-Beginners/dp/1497415020):** Also starts with keywords and covers ON PAGE and OFF PAGE SEO. Emphasizes the importance of speed, and has a nice appendix with SEO resources, glossary, and links.
 * **[SEO Warrior](http://shop.oreilly.com/product/9780596157081.do):** Essential Techniques for Increasing Web Visibility
 * **[SEO: Marketing Strategies to Dominate the First Page](https://www.amazon.com/SEO-Marketing-Strategies-analytics-optimization-ebook/dp/B01ACB7LQM):** Introduction to Google Analytics, Webmaster, Website traffic, Adwords, Pay per click, Website promotion and Search engine optimization.
 * **[Search Engine Optimization All-in-One For Dummies](https://www.amazon.com/Search-Engine-Optimization-All-Dummies/dp/1118921755):** Bruce Clay is one of the most respected figures in the SEO community, teaching classes and workshops at all the major conferences. Like the ‘Art of SEO,’ this book is actually pretty technical and probably not your best easy, first guide, despite being part of the ‘Dummies’ series.
-* **[Search engine optimization 2016: Learn SEO with smart internet marketing strategies](https://www.amazon.com/dp/151534567X/ref=cm_sw_su_dp):** Learn SEO strategies to rank at the top of Google with SEO 2016
+* **[Search engine optimization 2016: Learn SEO with smart internet marketing strategies](https://www.amazon.com/Search-Optimization-Internet-Marketing-Strategies/dp/151534567X):** Learn SEO strategies to rank at the top of Google with SEO 2016
 * **[The Art of SEO, 3rd Edition](http://shop.oreilly.com/product/0636920032908.do):** Mastering Search Engine Optimization
 * **[The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo):** New to SEO? Need to polish up your knowledge? The Beginner's Guide to SEO has been read over 3 million times and provides the information you need to get on the road to professional quality SEO.
 * **[The SEO Battlefield](http://shop.oreilly.com/product/0636920050964.do):** If you want to establish an ongoing SEO program with the goal of increased traffic and search prominence, this practical step-by-step guide will help you understand SEO methodology and then show you how to put those theories into practice.
@@ -223,3 +223,5 @@ search engines do not use this meta tag
 
 ## License
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
