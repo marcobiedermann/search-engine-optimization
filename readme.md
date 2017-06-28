@@ -26,6 +26,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
   * [Structured Data](#structured-data)
   * [Bookmarklets](#bookmarklets)
   * [Browser Extensions](#browser-extensions)
+  * [Jekyll Plugins](#jekyll-plugins)
   * [WordPress Plugins](#wordpress-plugins)
 * [Books](#books)
 * [Courses](#courses)
@@ -181,6 +182,9 @@ search engines do not use this meta tag
 
 ### Browser Extensions
 * **[MozBar](https://moz.com/tools/seo-toolbar):** the SEO Toolbar from Moz gives you quick access to many on-page SEO factors, Domain & Page Authority plus a quick nofollow toggle. Download the Free Toolbar today!
+
+### Jekyll Plugins
+* **[Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag):** A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
 
 ### WordPress Plugins
 * **[All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/):** the most downloaded plugin for WordPress (almost 30 million downloads). Use All in One SEO Pack to automatically optimize your site for Search Engines
