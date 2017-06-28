@@ -27,6 +27,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
   * [Bookmarklets](#bookmarklets)
   * [Browser Extensions](#browser-extensions)
   * [Jekyll Plugins](#jekyll-plugins)
+  * [TYPO3 Extensions](#typo3-extensions)
   * [WordPress Plugins](#wordpress-plugins)
 * [Books](#books)
 * [Courses](#courses)
@@ -185,6 +186,9 @@ search engines do not use this meta tag
 
 ### Jekyll Plugins
 * **[Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag):** A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
+
+### TYPO3 Extensions
+* **[Basic SEO Features](https://typo3.org/extensions/repository/view/seo_basics):** Adds a separate field for the title-tag per page, easy and SEO-friendly keywords and description editing in a new module as well as a flexible Google Sitemap.
 
 ### WordPress Plugins
 * **[All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/):** the most downloaded plugin for WordPress (almost 30 million downloads). Use All in One SEO Pack to automatically optimize your site for Search Engines
