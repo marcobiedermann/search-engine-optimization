@@ -189,6 +189,7 @@ search engines do not use this meta tag
 
 ### TYPO3 Extensions
 * **[Basic SEO Features](https://typo3.org/extensions/repository/view/seo_basics):** Adds a separate field for the title-tag per page, easy and SEO-friendly keywords and description editing in a new module as well as a flexible Google Sitemap.
+* **[Google sitemap](https://typo3.org/extensions/repository/view/dd_googlesitemap):** High performance Google sitemap implementation that avoids typical errors by other similar extensions.
 
 ### WordPress Plugins
 * **[All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/):** the most downloaded plugin for WordPress (almost 30 million downloads). Use All in One SEO Pack to automatically optimize your site for Search Engines
