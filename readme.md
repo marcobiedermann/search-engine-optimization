@@ -147,7 +147,7 @@ search engines do not use this meta tag
 * **[Followerwonk](https://moz.com/followerwonk):** tools for Twitter Analytics, Bio Search and More
 * **[Google Analytics](https://www.google.com/analytics/):** generate detailed statistics about a website's traffic
 * **[Open Site Explorer](https://moz.com/researchtools/ose/):** use Open Site Explorer to identify link building opportunities. Research backlinks, identify top pages, view social activity, and analyze anchor text.
-* **[Piwik](https://piwik.org/):** an open analytics platform
+* **[Matomo](https://matomo.org/):** an open analytics platform
 * **[SEMrush](https://www.semrush.com/):** SEMrush is a powerful and versatile competitive intelligence suite for online marketing, from SEO and PPC to social media and video advertising research.
 * **[Seomator](https://seomator.com/):**  SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips.
 * **[SEOstats](https://github.com/eyecatchup/SEOstats):** SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
@@ -164,7 +164,6 @@ search engines do not use this meta tag
 * **[Google Trends](https://www.google.com/trends/):** explore Google trending search topics with Google Trends.
 * **[Keyword Planner](https://adwords.google.com/KeywordPlanner):** plan your Search Network campaigns and learn what your customers are looking for
 * **[Keyword Tool](http://keywordtool.io/):** best FREE alternative to Google Keyword Tool for SEO & PPC keyword research! Get 750+ relevant long-tail keywords from Google Suggest in seconds!
-* **[Rankscanner](https://www.rankscanner.com/):** easily track your keyword positions (SERPs) on Google for free. Unlimited websites and 100 % ranking accuracy. The best SEO tool and SERP monitor online.
 
 ### Links
 * **[OpenLinkProfiler](http://www.openlinkprofiler.org/):** get an in-depth analysis of the freshest live backlinks.
