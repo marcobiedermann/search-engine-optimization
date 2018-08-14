@@ -164,6 +164,7 @@ search engines do not use this meta tag
 * **[Google Trends](https://www.google.com/trends/):** explore Google trending search topics with Google Trends.
 * **[Keyword Planner](https://adwords.google.com/KeywordPlanner):** plan your Search Network campaigns and learn what your customers are looking for
 * **[Keyword Tool](http://keywordtool.io/):** best FREE alternative to Google Keyword Tool for SEO & PPC keyword research! Get 750+ relevant long-tail keywords from Google Suggest in seconds!
+* **[Moz Keyword Explorer](https://moz.com/explorer):** Paid Keyword Tool that provides precise search volume, keyword difficulty, SERP Features and organic click through rate data.
 
 ### Links
 * **[OpenLinkProfiler](http://www.openlinkprofiler.org/):** get an in-depth analysis of the freshest live backlinks.
