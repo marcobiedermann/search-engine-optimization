@@ -167,6 +167,7 @@ search engines do not use this meta tag
 * **[Moz Keyword Explorer](https://moz.com/explorer):** Paid Keyword Tool that provides precise search volume, keyword difficulty, SERP Features and organic click through rate data.
 
 ### Links
+* **[LinkResearchTools & Link Detox](https://www.linkresearchtools.com/):** LinkResearchTools (LRT) is real-time link protection & optimization platform for websites. LRT helps you to recover from Google penalties, protect against future penalties, learn from and outgrow competitors, and increase traffic through proactive link building.
 * **[OpenLinkProfiler](http://www.openlinkprofiler.org/):** get an in-depth analysis of the freshest live backlinks.
 * **[Search Engine Spider Simulator](http://tools.seochat.com/tools/search-spider-simulator):** this tool simulates a search engine by displaying the contents of a web page in exactly the way the search engine bot would see it when it crawls the page: See most prominent or inaccessible page elements.
 * **[Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/):** the Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites’ links, images, CSS, script and apps from an SEO perspective.
@@ -183,6 +184,7 @@ search engines do not use this meta tag
 * **[SEO Bookmarklet](https://twkm.ca/projects/seo-bookmarklet):** a One-Stop SEO Bookmarklet to Quickly Review On-Site SEO
 
 ### Browser Extensions
+* **[Link Redirect Trace](https://www.linkresearchtools.com/seo-tools/free-seo-tools/link-redirect-trace-extension/):** the all-in-one redirect path analyzer. HTTP Headers, Rel-Canonicals, robots.txt, link power, trust and more!
 * **[MozBar](https://moz.com/tools/seo-toolbar):** the SEO Toolbar from Moz gives you quick access to many on-page SEO factors, Domain & Page Authority plus a quick nofollow toggle. Download the Free Toolbar today!
 
 ### Jekyll Plugins
