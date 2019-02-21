@@ -124,11 +124,6 @@ search engines do not use this meta tag
 ## Social Media
 * Authorship information
 * **[Facebook](https://developers.facebook.com/docs/sharing/best-practices):** sharing Best Practices for Websites & Mobile Apps
-* **[Google+ Authorship](https://www.youtube.com/watch?v=FgFb6Y-UJUI):** add Google+ authorship information to your page
-`<link rel="author" href="https://plus.google.com/u/0/[GOOGLE+ ID]">` or
-`<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=author">Google+ Profile</a>` or
-`<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=me">Google+ Profile</a>` or
-`<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=publisher">Google+ Profile</a>`
 * **[OpenGraph](http://ogp.me/):** the Open Graph protocol enables any web page to become a rich object in a social graph.
 * **[Social Profiles](https://developers.google.com/webmasters/structured-data/customize/social-profiles):** add social profiles to your Google search results
 * **Social Shares:** provide sharing options for your site
@@ -173,7 +168,6 @@ search engines do not use this meta tag
 
 ### Structured Data
 * **[Facebook Debugger](https://developers.facebook.com/tools/debug):** enter the URL you want to scrape to see how the page's markup appears to Facebook
-* **[Google+ Snippet Creator](https://developers.google.com/+/web/snippet/):** customize the snippet that will be seen on social media when your page is shared
 * **[Pinterest](https://developers.pinterest.com/rich_pins/validator/):** validate your Rich Pins and apply to get them on Pinterest
 * **[Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/):** paste in your rich snippets or url to test it
 * **[Twitter card validator](https://cards-dev.twitter.com/validator):** enter the URL of the page with the meta tags to validate
