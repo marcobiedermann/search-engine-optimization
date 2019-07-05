@@ -1,10 +1,10 @@
 # Site settings
 title: Search Engine Optimization
 description: A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: '' # the subpath of your site, e.g. /blog/
+url: '' # the base hostname & protocol for your site
 twitter_username: m412c0b
-github_username:  marcobiedermann
+github_username: marcobiedermann
 exclude: [readme.md]
 sass:
   style: compressed

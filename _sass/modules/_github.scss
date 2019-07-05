@@ -1,41 +1,38 @@
 .github {
   height: 80px;
-  width: 80px;
   position: fixed;
   right: 0;
   top: 0;
   transform: translateZ(0);
+  width: 80px;
   z-index: 1;
 
   &:hover {
-
     .github__arm {
-
       @media (min-width: $media-sm) {
         animation: octocat-wave 560ms ease-in-out;
       }
-
     }
-
   }
 
   &__arm {
     transform-origin: 130px 106px;
   }
-
 }
 
-@keyframes octocat-wave{
-
-  0%, 100%{
+@keyframes octocat-wave {
+  0%,
+  100% {
     transform: rotate(0);
   }
 
-  20%, 60%{
+  20%,
+  60% {
     transform: rotate(-25deg);
   }
-  40%, 80%{
+
+  40%,
+  80% {
     transform: rotate(10deg);
   }
-
 }
