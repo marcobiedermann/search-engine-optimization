@@ -165,6 +165,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 
 ### Optimization
 
+- **[Web.dev](https://web.dev/):** Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from Web.dev. Whether you already have a website or you're just getting started, learn to build for the modern web at Web.dev.
 - **[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/):** Page Speed Insights measures the performance of a page for mobile devices and desktop devices.
 - **[Varvy Seo tool](https://varvy.com/):** displays: domain strength, links, image seo, social counts & mentions, page/technical seo, pagespeed and more.
 - **[Webpagetest.org](https://www.webpagetest.org/):** Web Page Test gives you an overall performance waterfall as well as rendering timeline for sites. It also provides critical insight into time to first byte and what could be holding back web page performance
