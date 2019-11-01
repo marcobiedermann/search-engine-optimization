@@ -56,7 +56,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - **[Performance](https://developers.google.com/webmasters/mobile-sites/mobile-seo/common-mistakes/slow-mobile-pages):** performance and loading time is important
 - **Redirects:** avoid redirects if possible. Use 301 redirect instead of 302
 - **[RichSnippets](https://schema.org/):** markup your code with rich snippets, they show up on the search results page
-- **Robots:** block pages which should not be indexed via the `robots.txt` file or
+- **[Robots](https://en.wikipedia.org/wiki/Robots_exclusion_standard):** block pages which should not be indexed via the `robots.txt` file or
   `<meta name="robots" content="">`
 - **Validation:** write valid code ([HTML Validator](https://validator.w3.org/) [CSS Validator](https://jigsaw.w3.org/css-validator/))
 - **[WAI-Aria](https://www.w3.org/TR/wai-aria/):** use WAI-Aria tags to help machines understand your code
