@@ -177,6 +177,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - **[Keyword Planner](https://adwords.google.com/KeywordPlanner):** plan your Search Network campaigns and learn what your customers are looking for
 - **[Keyword Tool](http://keywordtool.io/):** best FREE alternative to Google Keyword Tool for SEO & PPC keyword research! Get 750+ relevant long-tail keywords from Google Suggest in seconds!
 - **[Moz Keyword Explorer](https://moz.com/explorer):** Paid Keyword Tool that provides precise search volume, keyword difficulty, SERP Features and organic click through rate data.
+- **[Keyword Clarity](https://keywordclarity.io):** Free keyword analytics tool that allows you to visualize and group keyword metrics with tree diagrams. The tool works with data from the [Google Search Console](#webmasters) API and CSVs.
 
 ### Links
 
