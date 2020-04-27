@@ -165,7 +165,6 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - **[Twitter Analytics](https://analytics.twitter.com/):** measure and boost your impact on Twitter.
 - **[Plausible](https://plausible.io/):** Simple and privacy-friendly alternative to Google Analytics.
 
-
 ### Optimization
 
 - **[Web.dev](https://web.dev/):** Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from Web.dev. Whether you already have a website or you're just getting started, learn to build for the modern web at Web.dev.
