@@ -162,6 +162,8 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - **[SEOstats](https://github.com/eyecatchup/SEOstats):** SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
 - **[SimilarWeb](https://www.similarweb.com/):** compare website traffic with SimilarWeb.com's advanced traffic estimator tool. See any website's traffic sources & uncover their online marketing strategies.
 - **[Twitter Analytics](https://analytics.twitter.com/):** measure and boost your impact on Twitter.
+- **[Plausible](https://plausible.io/):** Simple and privacy-friendly alternative to Google Analytics.
+
 
 ### Optimization
 
