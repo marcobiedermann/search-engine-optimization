@@ -163,6 +163,8 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - **[SimilarWeb](https://www.similarweb.com/):** compare website traffic with SimilarWeb.com's advanced traffic estimator tool. See any website's traffic sources & uncover their online marketing strategies.
 - **[SpyFu](https://www.spyfu.com/):** Unlimited searches of any competitor's keywords for SEO or Google Ads. Research keywords, and find any domain's strongest content and their most dominant ad copy.
 - **[Twitter Analytics](https://analytics.twitter.com/):** measure and boost your impact on Twitter.
+- **[Plausible](https://plausible.io/):** Simple and privacy-friendly alternative to Google Analytics.
+
 
 ### Optimization
 
