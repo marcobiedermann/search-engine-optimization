@@ -183,6 +183,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - **[OpenLinkProfiler](http://www.openlinkprofiler.org/):** get an in-depth analysis of the freshest live backlinks.
 - **[Search Engine Spider Simulator](http://tools.seochat.com/tools/search-spider-simulator):** this tool simulates a search engine by displaying the contents of a web page in exactly the way the search engine bot would see it when it crawls the page: See most prominent or inaccessible page elements.
 - **[Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/):** the Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites’ links, images, CSS, script and apps from an SEO perspective.
+- **[Linkbuilding Spider](https://github.com/fulldecent/linkbuilding-spider):** a PHP project to check if websites are linking to your website.
 
 ### Structured Data
 
