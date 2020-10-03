@@ -42,7 +42,6 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - **[Localisation](https://support.google.com/webmasters/answer/62399):** choose a country-specific domain, for better local search results
 - **[Subdomain or subfolder](https://www.youtube.com/watch?v=_MswMYk05tk):** subdomains are seen as separate domains
 - **[URL builder](https://support.google.com/analytics/answer/1033867):** Use this tool to add custom campaign parameters to your URLs
-- **[www or no-www](https://support.google.com/webmasters/answer/44231):** provide both domains, but set a prefered version in Google Webmaster Tools
 
 ## Accessibility
 
