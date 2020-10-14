@@ -216,6 +216,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 
 - **[All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/):** the most downloaded plugin for WordPress (almost 30 million downloads). Use All in One SEO Pack to automatically optimize your site for Search Engines
 - **[Yoast SEO](https://wordpress.org/plugins/wordpress-seo/):** improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast SEO plugin.
+- **[Slim SEO](https://wordpress.org/plugins/slim-seo/):** automated SEO tasks for you with a lightweight WordPress SEO plugin.
 
 ## Books
 
