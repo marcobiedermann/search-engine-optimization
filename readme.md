@@ -168,6 +168,8 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Webpagetest.org](https://www.webpagetest.org/) - Web Page Test gives you an overall performance waterfall as well as rendering timeline for sites. It also provides critical insight into time to first byte and what could be holding back web page performance.
 - [WooRank](https://www.woorank.com/) - WooRank will help you to address issues on your site & identify opportunities to push you ahead of the competition.
 - [Awesometechstack.com](https://awesometechstack.com/) - AwesomeTechStack provides insights into the security, modernity, and performance of any website's technology stack and guidance to improve web vitals and the technology stack.
+- [Prerender](https://prerender.io/) – Prerender serves 100% cached versions of your web pages to search engine bots that have problems executing JavaScript.
+- [Seobility](https://www.seobility.net/en/) - Seobility is an all-in-one SEO software offering useful tools such as website crawling, Google rank tracker, backlink checker, continuous monitoring and whitelabel reporting. It has a generous free plan.
 
 ### Keywords
 
@@ -176,7 +178,8 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Keyword Tool](http://keywordtool.io/) - Best FREE alternative to Google Keyword Tool for SEO & PPC keyword research! Get 750+ relevant long-tail keywords from Google Suggest in seconds!
 - [Moz Keyword Explorer](https://moz.com/explorer) - Paid Keyword Tool that provides precise search volume, keyword difficulty, SERP Features and organic click through rate data.
 - [Keyword Clarity](https://keywordclarity.io) - Free keyword analytics tool that allows you to visualize and group keyword metrics with tree diagrams. The tool works with data from the Google Search Console API and CSVs.
-- [SEOwl](https://www.seowl.co) - Track your keyword rankings overtime and monitor your backlinks 
+- [SEOwl](https://www.seowl.co) - Track your keyword rankings overtime and monitor your backlinks.
+- [Keyword.com](https://keyword.com/) – Track, pinpoint and validate your SEO efforts with real-time accurate rank tracking.
 
 ### Links
 
@@ -252,6 +255,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [SEO: Link Building in Depth](https://www.lynda.com/Business-Online-Marketing-tutorials/SEO-Link-Building-Depth/95253-6.html) - Investigates the anatomy of a link, how links affect page ranking, and the properties that make an excellent inbound link. With Peter Kent by Lynda.com.
 - [Spying with SEO Tools](https://www.lynda.com/Marketing-PPC-tutorials/Spying-SEO-Tools/371730-6.html) - Learn how to use SEO tools and techniques to research the competition online. Find out what keywords your competitors are optimizing for—and then outrank them on search engine results pages. With Anson Alexander by Lynda.com.
 - [WordPress Plugins: SEO](https://www.lynda.com/WordPress-tutorials/WordPress-Plugins-SEO/140779-2.html) - Drive more visitors to your WordPress site by performing search engine optimization, or SEO, with the help of two powerful plugins. With Morten Rand-Hendriksen by Lynda.com.
+- [A Technical SEO’s Guide to Crawl Budget Optimization](https://prerender.io/resources/free-downloads/white-papers/crawl-budget-guide/) – A comprehensive guide explaining the importance of crawl budgets in managing indexing for search engines, how it impacts website traffic, and provides optimization tips to improve online visibility and SEO results.
 
 ## License
 
