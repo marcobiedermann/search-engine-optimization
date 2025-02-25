@@ -186,6 +186,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/) - The Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites links, images, CSS, script and apps from an SEO perspective.
 - [Linkbuilding Spider](https://github.com/fulldecent/linkbuilding-spider) - A PHP project to check if websites are linking to your website.
 - [linkok.com](https://linkok.com) - An online broken link checker app.
+- [Core web vitals history checker](https://punits.dev/core-web-vitals-historical/) - Know if the core web vitals for a url or an origin have improved, degraded or remained stable for the last six months.
 
 ### Structured Data
 
