@@ -168,7 +168,8 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Webpagetest.org](https://www.webpagetest.org/) - Web Page Test gives you an overall performance waterfall as well as rendering timeline for sites. It also provides critical insight into time to first byte and what could be holding back web page performance.
 - [WooRank](https://www.woorank.com/) - WooRank will help you to address issues on your site & identify opportunities to push you ahead of the competition.
 - [Awesometechstack.com](https://awesometechstack.com/) - AwesomeTechStack provides insights into the security, modernity, and performance of any website's technology stack and guidance to improve web vitals and the technology stack.
-- [OptimalUX](https://optimalux.com/seo-patching) - Optimize your site with seamless SEO patching and an A/B testing tool built on top of Cloudflare for easy integration. 
+- [OptimalUX](https://optimalux.com/seo-patching) - Optimize your site with seamless SEO patching and an A/B testing tool built on top of Cloudflare for easy integration.
+- [Core web vitals history checker](https://punits.dev/core-web-vitals-historical/) - Know if the core web vitals for a url or an origin have improved, degraded or remained stable for the last six months. 
 
 ### Keywords
 
@@ -186,7 +187,6 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/) - The Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites links, images, CSS, script and apps from an SEO perspective.
 - [Linkbuilding Spider](https://github.com/fulldecent/linkbuilding-spider) - A PHP project to check if websites are linking to your website.
 - [linkok.com](https://linkok.com) - An online broken link checker app.
-- [Core web vitals history checker](https://punits.dev/core-web-vitals-historical/) - Know if the core web vitals for a url or an origin have improved, degraded or remained stable for the last six months.
 
 ### Structured Data
 
