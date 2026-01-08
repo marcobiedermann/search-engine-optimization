@@ -44,6 +44,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 
 - 403: Provide a 403 - Access denied page.
 - 404: Provide a 404 - Page not found page.
+- 410: Provide a 410 - Gone page for content that has been permanently removed and will not be replaced. This helps search engines remove the URL from their index faster than a 404
 - [Custom Search](https://developers.google.com/structured-data/slsb-overview) - With Google Sitelink search box, people can reach your content more quickly.
 - File not found: Avoid `404 FILE_NOT_FOUND` errors.
 - Layout: Use `divs` instead of `tables` for layout. Using `tables` is not semantically correct.
