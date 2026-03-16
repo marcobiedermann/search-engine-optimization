@@ -170,6 +170,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Awesometechstack.com](https://awesometechstack.com/) - AwesomeTechStack provides insights into the security, modernity, and performance of any website's technology stack and guidance to improve web vitals and the technology stack.
 - [OptimalUX](https://optimalux.com/seo-patching) - Optimize your site with seamless SEO patching and an A/B testing tool built on top of Cloudflare for easy integration. 
 
+- [GEO Boost](https://geo-boost.makesall.cn) - AI Visibility & Agent Optimization Platform. Check if AI search engines (ChatGPT, Gemini, Perplexity) can find your brand with GEO/AEO scoring and actionable recommendations.
 ### Keywords
 
 - [Google Trends](https://www.google.com/trends/) - Explore Google trending search topics with Google Trends.
