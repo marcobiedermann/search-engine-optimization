@@ -168,7 +168,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Webpagetest.org](https://www.webpagetest.org/) - Web Page Test gives you an overall performance waterfall as well as rendering timeline for sites. It also provides critical insight into time to first byte and what could be holding back web page performance.
 - [WooRank](https://www.woorank.com/) - WooRank will help you to address issues on your site & identify opportunities to push you ahead of the competition.
 - [Awesometechstack.com](https://awesometechstack.com/) - AwesomeTechStack provides insights into the security, modernity, and performance of any website's technology stack and guidance to improve web vitals and the technology stack.
-- [OptimalUX](https://optimalux.com/seo-patching) - Optimize your site with seamless SEO patching and an A/B testing tool built on top of Cloudflare for easy integration. 
+- [OptimalUX](https://optimalux.com/seo-patching) - Optimize your site with seamless SEO patching and an A/B testing tool built on top of Cloudflare for easy integration.
 
 ### Keywords
 
@@ -177,7 +177,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Keyword Tool](http://keywordtool.io/) - Best FREE alternative to Google Keyword Tool for SEO & PPC keyword research! Get 750+ relevant long-tail keywords from Google Suggest in seconds!
 - [Moz Keyword Explorer](https://moz.com/explorer) - Paid Keyword Tool that provides precise search volume, keyword difficulty, SERP Features and organic click through rate data.
 - [Keyword Clarity](https://keywordclarity.io) - Free keyword analytics tool that allows you to visualize and group keyword metrics with tree diagrams. The tool works with data from the Google Search Console API and CSVs.
-- [SEOwl](https://www.seowl.co) - Track your keyword rankings overtime and monitor your backlinks 
+- [SEOwl](https://www.seowl.co) - Track your keyword rankings overtime and monitor your backlinks
 
 ### Links
 
@@ -193,6 +193,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Pinterest](https://developers.pinterest.com/rich_pins/validator/) - Validate your Rich Pins and apply to get them on Pinterest.
 - [Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) - Paste in your rich snippets or url to test it.
 - [Twitter card validator](https://cards-dev.twitter.com/validator) - Enter the URL of the page with the meta tags to validate.
+- [Nxis AI](https://nxis.ai) - Generate and deploy schema in one click — across every site you run. Native MCP makes it queryable by AI agents.
 
 ### Bookmarklets
 
