@@ -254,6 +254,13 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Spying with SEO Tools](https://www.lynda.com/Marketing-PPC-tutorials/Spying-SEO-Tools/371730-6.html) - Learn how to use SEO tools and techniques to research the competition online. Find out what keywords your competitors are optimizing for—and then outrank them on search engine results pages. With Anson Alexander by Lynda.com.
 - [WordPress Plugins: SEO](https://www.lynda.com/WordPress-tutorials/WordPress-Plugins-SEO/140779-2.html) - Drive more visitors to your WordPress site by performing search engine optimization, or SEO, with the help of two powerful plugins. With Morten Rand-Hendriksen by Lynda.com.
 
+## Real-World Implementations
+
+*Production websites demonstrating SEO best practices*
+
+- [Fix72 — French IT Repair Service](https://fix72.com) - Local business (Le Mans, France) using SSR prerendering (React+Vite), 4 thematic XML sitemaps, LocalBusiness JSON-LD, canonical URL management, Google Indexing API automation, and `llms.txt` for GEO. [Source code](https://github.com/dilm-seo/depannagelemans)
+
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
