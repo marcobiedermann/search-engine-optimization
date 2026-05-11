@@ -22,6 +22,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
   - [Keywords](#keywords-1)
   - [Links](#links-1)
   - [Structured Data](#structured-data)
+  - [Command Line Tools](#command-line-tools)
   - [Bookmarklets](#bookmarklets)
   - [Browser Extensions](#browser-extensions)
   - [Jekyll Plugins](#jekyll-plugins)
@@ -193,6 +194,13 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Pinterest](https://developers.pinterest.com/rich_pins/validator/) - Validate your Rich Pins and apply to get them on Pinterest.
 - [Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) - Paste in your rich snippets or url to test it.
 - [Twitter card validator](https://cards-dev.twitter.com/validator) - Enter the URL of the page with the meta tags to validate.
+
+### Command Line Tools
+
+- [ai-crawler-bots](https://github.com/TryGeoSuite/ai-crawler-bots) - Curated AI bot user-agent list with a CLI that reports robots.txt verdicts, edge vs origin block attribution, and Cloudflare Managed Content detection. Zero-dependency Node 20+.
+- [llms-txt-generator](https://github.com/TryGeoSuite/llms-txt-generator) - Generate an `llms.txt` file from a `sitemap.xml`, per the proposed standard at llmstxt.org.
+- [schema-templates](https://github.com/TryGeoSuite/schema-templates) - 23 copy-paste schema.org JSON-LD templates with an offline structural validator.
+- [sitemap-builder](https://github.com/TryGeoSuite/sitemap-builder) - Crawl a website and emit a valid `sitemap.xml` for sites that ship without one.
 
 ### Bookmarklets
 
