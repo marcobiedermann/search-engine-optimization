@@ -169,6 +169,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [WooRank](https://www.woorank.com/) - WooRank will help you to address issues on your site & identify opportunities to push you ahead of the competition.
 - [Awesometechstack.com](https://awesometechstack.com/) - AwesomeTechStack provides insights into the security, modernity, and performance of any website's technology stack and guidance to improve web vitals and the technology stack.
 - [OptimalUX](https://optimalux.com/seo-patching) - Optimize your site with seamless SEO patching and an A/B testing tool built on top of Cloudflare for easy integration. 
+- [SEO Textools](https://seo.textools.site) - Free SEO audit tool with 20+ checks covering technical SEO, content analysis, mobile-friendliness, performance, security, and structured data validation — no sign-up required.
 
 ### Keywords
 
