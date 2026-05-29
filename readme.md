@@ -169,6 +169,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [WooRank](https://www.woorank.com/) - WooRank will help you to address issues on your site & identify opportunities to push you ahead of the competition.
 - [Awesometechstack.com](https://awesometechstack.com/) - AwesomeTechStack provides insights into the security, modernity, and performance of any website's technology stack and guidance to improve web vitals and the technology stack.
 - [OptimalUX](https://optimalux.com/seo-patching) - Optimize your site with seamless SEO patching and an A/B testing tool built on top of Cloudflare for easy integration. 
+- [Lighthouse-MD](https://lighthouse-md.com/) - Turn a PageSpeed Insights audit into a structured CLAUDE.md fix brief for Claude Code, with failing audits, offenders, prescriptive fixes, and a do-not-regress list.
 
 ### Keywords
 
