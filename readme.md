@@ -190,6 +190,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 ### Structured Data
 
 - [Facebook Debugger](https://developers.facebook.com/tools/debug) - Enter the URL you want to scrape to see how the page's markup appears to Facebook.
+- [Open Graph Preview & Debugger](https://imagedimensions.com/tools/og-image-preview) - Enter a URL to preview its Facebook, X, LinkedIn, and Slack share cards and validate Open Graph and Twitter Card tags.
 - [Pinterest](https://developers.pinterest.com/rich_pins/validator/) - Validate your Rich Pins and apply to get them on Pinterest.
 - [Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) - Paste in your rich snippets or url to test it.
 - [Twitter card validator](https://cards-dev.twitter.com/validator) - Enter the URL of the page with the meta tags to validate.
