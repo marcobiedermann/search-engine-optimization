@@ -169,6 +169,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [WooRank](https://www.woorank.com/) - WooRank will help you to address issues on your site & identify opportunities to push you ahead of the competition.
 - [Awesometechstack.com](https://awesometechstack.com/) - AwesomeTechStack provides insights into the security, modernity, and performance of any website's technology stack and guidance to improve web vitals and the technology stack.
 - [OptimalUX](https://optimalux.com/seo-patching) - Optimize your site with seamless SEO patching and an A/B testing tool built on top of Cloudflare for easy integration. 
+- [Website Speed Comparison](https://landing-five-dusky-44.vercel.app/comparar-velocidad) - Free tool to compare your website's PageSpeed score vs. a competitor's using real Google PageSpeed Insights data. No signup required.
 
 ### Keywords
 
@@ -193,6 +194,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Pinterest](https://developers.pinterest.com/rich_pins/validator/) - Validate your Rich Pins and apply to get them on Pinterest.
 - [Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) - Paste in your rich snippets or url to test it.
 - [Twitter card validator](https://cards-dev.twitter.com/validator) - Enter the URL of the page with the meta tags to validate.
+- [Schema Generator for Local Business](https://landing-five-dusky-44.vercel.app/schema-generator) - Free JSON-LD Schema markup generator for local businesses (LocalBusiness, Restaurant, MedicalBusiness, HairSalon, and more). No signup required.
 
 ### Bookmarklets
 
