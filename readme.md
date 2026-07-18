@@ -112,7 +112,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 
 ## Mobile
 
-- [AppLinks](http://applinks.org/documentation/) - Apps that link to your content can then use this metadata to deep-link into your app.
+- [AppLinks](https://applinks.org/documentation/) - Apps that link to your content can then use this metadata to deep-link into your app.
 - [mobile friendly](https://googlewebmastercentral.blogspot.be/2014/11/helping-users-find-mobile-friendly-pages.html) - Mobile optimized sites are marked in search results. Test for [mobile friendly site](https://www.google.com/webmasters/tools/mobile-friendly/).
 - [Smart App Banner](https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html) - Safari has a Smart App Banner feature that provides a standardized method of promoting apps on the App Store from a website.
 - [Tap targets](https://developers.google.com/speed/docs/insights/SizeTapTargetsAppropriately) - Clickable links should not be too small.
@@ -131,7 +131,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 
 - Authorship information.
 - [Facebook](https://developers.facebook.com/docs/sharing/best-practices) - Sharing Best Practices for Websites & Mobile Apps.
-- [OpenGraph](http://ogp.me/) - The Open Graph protocol enables any web page to become a rich object in a social graph.
+- [OpenGraph](https://ogp.me/) - The Open Graph protocol enables any web page to become a rich object in a social graph.
 - [Social Profiles](https://developers.google.com/webmasters/structured-data/customize/social-profiles) - Add social profiles to your Google search results.
 - Social Shares: Provide sharing options for your site.
 - [Twitter](https://dev.twitter.com/cards/getting-started) - With Twitter cards, you can attach photos, videos and media experience to you Tweets.
@@ -140,7 +140,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 
 ### Webmasters
 
-- [Bing Webmasters](http://www.bing.com/toolbox/webmaster) - Allows webmasters to add their websites to the Bing index crawler.
+- [Bing Webmasters](https://www.bing.com/toolbox/webmaster) - Allows webmasters to add their websites to the Bing index crawler.
 - [Google Search Console (GWT)](https://www.google.com/webmasters/) - Allows webmasters to check indexing status and optimize visibility of their websites.
 - [Google Tag Manager](https://www.google.com/analytics/tag-manager/) - Learn about Google Analytics Tag Manager and how it can help simplify your life and need for IT requests. Launch new tags with a few clicks.
 
@@ -174,15 +174,15 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 
 - [Google Trends](https://www.google.com/trends/) - Explore Google trending search topics with Google Trends.
 - [Keyword Planner](https://adwords.google.com/KeywordPlanner) - Plan your Search Network campaigns and learn what your customers are looking for.
-- [Keyword Tool](http://keywordtool.io/) - Best FREE alternative to Google Keyword Tool for SEO & PPC keyword research! Get 750+ relevant long-tail keywords from Google Suggest in seconds!
+- [Keyword Tool](https://keywordtool.io/) - Best FREE alternative to Google Keyword Tool for SEO & PPC keyword research! Get 750+ relevant long-tail keywords from Google Suggest in seconds!
 - [Moz Keyword Explorer](https://moz.com/explorer) - Paid Keyword Tool that provides precise search volume, keyword difficulty, SERP Features and organic click through rate data.
 - [Keyword Clarity](https://keywordclarity.io) - Free keyword analytics tool that allows you to visualize and group keyword metrics with tree diagrams. The tool works with data from the Google Search Console API and CSVs.
 - [SEOwl](https://www.seowl.co) - Track your keyword rankings overtime and monitor your backlinks 
 
 ### Links
 
-- [OpenLinkProfiler](http://www.openlinkprofiler.org/) - Get an in-depth analysis of the freshest live backlinks.
-- [Search Engine Spider Simulator](http://tools.seochat.com/tools/search-spider-simulator) - This tool simulates a search engine by displaying the contents of a web page in exactly the way the search engine bot would see it when it crawls the page: See most prominent or inaccessible page elements.
+- [OpenLinkProfiler](https://www.openlinkprofiler.org/) - Get an in-depth analysis of the freshest live backlinks.
+- [Search Engine Spider Simulator](https://tools.seochat.com/tools/search-spider-simulator) - This tool simulates a search engine by displaying the contents of a web page in exactly the way the search engine bot would see it when it crawls the page: See most prominent or inaccessible page elements.
 - [Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/) - The Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites links, images, CSS, script and apps from an SEO perspective.
 - [Linkbuilding Spider](https://github.com/fulldecent/linkbuilding-spider) - A PHP project to check if websites are linking to your website.
 - [linkok.com](https://linkok.com) - An online broken link checker app.
@@ -224,13 +224,13 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Search Engine Optimization All-in-One For Dummies](https://www.amazon.com/Search-Engine-Optimization-All-Dummies/dp/1118921755) - Bruce Clay is one of the most respected figures in the SEO community, teaching classes and workshops at all the major conferences. Like the ‘Art of SEO,’ this book is actually pretty technical and probably not your best easy, first guide, despite being part of the ‘Dummies’ series.
 - [SEO 2016: Learn Search Engine Optimization](https://www.amazon.com/SEO-2016-Search-Engine-Optimization/dp/1512275069) - A Comprehensive Must-Have Guide to SEO in Today's Competitive Search Environment.
 - [SEO Fitness Workbook](https://www.amazon.com/SEO-Fitness-Workbook-2016-Optimization/dp/1518748880) - Step-by-step book on SEO, starting with goals, going through on page SEO such as page tags, and ending up with off page SEO such as link-building and social mentions.
-- [SEO For Dummies, 6th Edition](http://shop.oreilly.com/product/9781119129554.do) - Your fully updated guide to search engine optimization.
+- [SEO For Dummies, 6th Edition](https://shop.oreilly.com/product/9781119129554.do) - Your fully updated guide to search engine optimization.
 - [SEO Step-by-Step - The Complete Beginner's Guide to Getting Traffic from Google](https://www.amazon.com/SEO-Step-Step-Complete-Beginners/dp/1497415020) - Also starts with keywords and covers ON PAGE and OFF PAGE SEO. Emphasizes the importance of speed, and has a nice appendix with SEO resources, glossary, and links.
-- [SEO Warrior](http://shop.oreilly.com/product/9780596157081.do) - Essential Techniques for Increasing Web Visibility.
+- [SEO Warrior](https://shop.oreilly.com/product/9780596157081.do) - Essential Techniques for Increasing Web Visibility.
 - [SEO: Marketing Strategies to Dominate the First Page](https://www.amazon.com/SEO-Marketing-Strategies-analytics-optimization-ebook/dp/B01ACB7LQM) - Introduction to Google Analytics, Webmaster, Website traffic, Adwords, Pay per click, Website promotion and Search engine optimization.
-- [The Art of SEO, 3rd Edition](http://shop.oreilly.com/product/0636920032908.do) - Mastering search engine optimization.
+- [The Art of SEO, 3rd Edition](https://shop.oreilly.com/product/0636920032908.do) - Mastering search engine optimization.
 - [The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) - New to SEO? Need to polish up your knowledge? The Beginner's Guide to SEO has been read over 3 million times and provides the information you need to get on the road to professional quality SEO.
-- [The SEO Battlefield](http://shop.oreilly.com/product/0636920050964.do) - If you want to establish an ongoing SEO program with the goal of increased traffic and search prominence, this practical step-by-step guide will help you understand SEO methodology and then show you how to put those theories into practice.
+- [The SEO Battlefield](https://shop.oreilly.com/product/0636920050964.do) - If you want to establish an ongoing SEO program with the goal of increased traffic and search prominence, this practical step-by-step guide will help you understand SEO methodology and then show you how to put those theories into practice.
 
 ## Courses
 
@@ -241,7 +241,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [International SEO Fundamentals](https://www.lynda.com/Analytics-tutorials/International-SEO-Fundamentals/377449-6.html) - Attract international visitors to your websites with these SEO tips. Learn how to determine target markets and optimize your website's technical aspects and content for countries and languages around the world. With David Booth by Lynda.com.
 - [Learning Search Engine Optimization (SEO) - A Video Introduction](https://www.video2brain.com/en/courses/learning-search-engine-optimization-seo-a-video-introduction) - Learning Search Engine Optimization (SEO) - A Video Introduction with Matt Bailey by video2brain.
 - [Learning Web Analytics](https://www.video2brain.com/en/courses/learning-web-analytics) - Learning Web Analytics with Matt Bailey by video2brain.
-- [SEO for Beginners](http://seoforbeginners.com/) - SEO for Beginners: A Video Guide Introduction.
+- [SEO for Beginners](https://seoforbeginners.com/) - SEO for Beginners: A Video Guide Introduction.
 - [SEO for Ecommerce](https://www.lynda.com/Google-Analytics-tutorials/SEO-Ecommerce/386884-2.html) - SEO for ecommerce is different. Get strategies tailored for optimizing an online store to improve page rankings and build traffic. With Steven Harris by Lynda.com.
 - [SEO for Local Visibility](https://www.lynda.com/Google-Maps-tutorials/SEO-Local-Visibility/178132-2.html) - Achieve maximum visibility in search rankings with these local SEO strategies. With Brad Batesole by Lynda.com.
 - [SEO for Web Designers](https://webdesign.tutsplus.com/courses/seo-for-web-designers) - SEO for Web Designers with Craig Campbell by TutsPlus.
