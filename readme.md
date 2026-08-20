@@ -193,6 +193,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Pinterest](https://developers.pinterest.com/rich_pins/validator/) - Validate your Rich Pins and apply to get them on Pinterest.
 - [Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) - Paste in your rich snippets or url to test it.
 - [Twitter card validator](https://cards-dev.twitter.com/validator) - Enter the URL of the page with the meta tags to validate.
+- [Schema Markup Generator](https://toolcascade.com/tools/schema-markup-generator) - Generate JSON-LD structured data for common schema types; runs entirely in the browser, no signup.
 
 ### Bookmarklets
 
