@@ -152,6 +152,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Google Analytics](https://www.google.com/analytics/) - Generate detailed statistics about a website's traffic.
 - [Open Site Explorer](https://moz.com/researchtools/ose/) - Use Open Site Explorer to identify link building opportunities. Research backlinks, identify top pages, view social activity, and analyze anchor text.
 - [Matomo](https://matomo.org/) - An open analytics platform.
+- [SearchD AI Visibility Report](https://searchd.ai/report) - Manually produces a free AI visibility report from 20 buyer questions across five answer engines.
 - [SEMrush](https://www.semrush.com/) - SEMrush is a powerful and versatile competitive intelligence suite for online marketing, from SEO and PPC to social media and video advertising research.
 - [Seomator](https://seomator.com/) - SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips.
 - [SEOstats](https://github.com/eyecatchup/SEOstats) - SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
