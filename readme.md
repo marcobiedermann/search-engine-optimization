@@ -159,6 +159,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [SpyFu](https://www.spyfu.com/) - Unlimited searches of any competitor's keywords for SEO or Google Ads. Research keywords, and find any domain's strongest content and their most dominant ad copy.
 - [Twitter Analytics](https://analytics.twitter.com/) - Measure and boost your impact on Twitter.
 - [Plausible](https://plausible.io/) - Simple and privacy-friendly alternative to Google Analytics.
+- [MessGEO](https://messgeo.com/) - Tracks how brands appear in ChatGPT, Gemini, Copilot, Perplexity and Google AI Overviews, with daily prompt tracking, share of voice and competitor comparison.
 
 ### Optimization
 
