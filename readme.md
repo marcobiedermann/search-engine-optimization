@@ -39,6 +39,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Localisation](https://support.google.com/webmasters/answer/62399) - Choose a country-specific domain, for better local search results.
 - [Subdomain or subfolder](https://www.youtube.com/watch?v=_MswMYk05tk) - Subdomains are seen as separate domains.
 - [URL builder](https://support.google.com/analytics/answer/1033867) - Use this tool to add custom campaign parameters to your URLs.
+- [URL slug generator](https://rillow.ai/tools/slug-generator) - Free tool that turns a page title into a short, lowercase, hyphenated URL slug.
 
 ## Accessibility
 
@@ -178,6 +179,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Moz Keyword Explorer](https://moz.com/explorer) - Paid Keyword Tool that provides precise search volume, keyword difficulty, SERP Features and organic click through rate data.
 - [Keyword Clarity](https://keywordclarity.io) - Free keyword analytics tool that allows you to visualize and group keyword metrics with tree diagrams. The tool works with data from the Google Search Console API and CSVs.
 - [SEOwl](https://www.seowl.co) - Track your keyword rankings overtime and monitor your backlinks 
+- [Rillow Keyword Clustering](https://rillow.ai/tools/keyword-clustering) - Free tool that sorts up to 20 keywords into topic clusters by meaning and search intent.
 
 ### Links
 
