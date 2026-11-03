@@ -168,7 +168,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Webpagetest.org](https://www.webpagetest.org/) - Web Page Test gives you an overall performance waterfall as well as rendering timeline for sites. It also provides critical insight into time to first byte and what could be holding back web page performance.
 - [WooRank](https://www.woorank.com/) - WooRank will help you to address issues on your site & identify opportunities to push you ahead of the competition.
 - [Awesometechstack.com](https://awesometechstack.com/) - AwesomeTechStack provides insights into the security, modernity, and performance of any website's technology stack and guidance to improve web vitals and the technology stack.
-- [OptimalUX](https://optimalux.com/seo-patching) - Optimize your site with seamless SEO patching and an A/B testing tool built on top of Cloudflare for easy integration. 
+- [OptimalUX](https://optimalux.com/seo-patching) - Optimize your site with seamless SEO patching and an A/B testing tool built on top of Cloudflare for easy integration. - [Kungfu Marketing Robots.txt Tester](https://kungfumarketing.net/robots-txt-tester) - Free in-browser robots.txt tester that shows, for each crawler including AI crawlers, whether a URL is allowed or blocked and which rule decided it.
 
 ### Keywords
 
